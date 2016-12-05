@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudie Multidiscliplinariteit",
-    "currentPage": "page11.html",
+    "currentPage": "fase2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 91,
+    "uniqCompNum": 94,
     "versionPublish": "3.9.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -421,7 +421,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CASESTUDIE MULTIDISCIPLINARITEIT</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -590,7 +590,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CASESTUDIE MULTIDISCIPLINARITEIT</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -636,7 +636,7 @@
             "showButtons": true
           },
           "title": "VOORONDERZOEK",
-          "text": "Een ontwerp komt uiteraard niet zomaar tot stand, er gaat een heel proces van onderzoek aan vooraf. We gingen op zoek naar een interessant onderwerp door te brainstormen en zochten bijpassende inspiratiebronnen.+",
+          "text": "Een ontwerp komt uiteraard niet zomaar tot stand, er gaat een heel proces van onderzoek aan vooraf. We gingen op zoek naar een interessant onderwerp door te brainstormen en zochten bijpassende inspiratiebronnen.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"vooronderzoek.html#header3-v\" data-toolbar=\"-mbrBtnMove\">BEKIJK ONZE BRAINSTORMS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"vooronderzoek.html#header3-t\" data-toolbar=\"-mbrBtnMove\">BEKIJK ONZE INSPIRATIEBRONNEN</a>"
         },
         {
@@ -682,8 +682,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brainstorm2-2000x1500-90-2000x1500-3.jpg",
-                "image": "@PROJECT_PATH@/assets/images/brainstorm2-2000x1500-90.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1375-12-2000x1375-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1375-12.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -692,8 +692,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brainstorm1-2000x1500-24-2000x1500-10.jpg",
-                "image": "@PROJECT_PATH@/assets/images/brainstorm1-2000x1500-24.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1400-73-2000x1400-18.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1400-73.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -702,8 +702,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brainstorm4-2000x2666-29-2000x2666-87.jpg",
-                "image": "@PROJECT_PATH@/assets/images/brainstorm4-2000x2666-29.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1375-79-2000x1375-15.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1375-79.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -712,8 +712,28 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/brainstorm3-2000x2666-18-2000x2666-31.jpg",
-                "image": "@PROJECT_PATH@/assets/images/brainstorm3-2000x2666-18.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1375-94-2000x1375-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1375-94.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1374-47-2000x1374-14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1374-47.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1375-51-2000x1375-55.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1375-51.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -2932,7 +2952,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CASESTUDIE MULTIDISCIPLINARITEIT</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -3106,7 +3126,7 @@
           "_name": "gallery2",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 4,
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Awesome",
@@ -3177,7 +3197,7 @@
             "Theme"
           ],
           "_name": "header4",
-          "_anchor": "header4-2a",
+          "_anchor": "header4-2l",
           "_params": {
             "parallax": true,
             "bgImageRadio": false,
@@ -3188,7 +3208,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/rwHcuB_2pWs?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/3uzmfRYs1VI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": false,
@@ -3216,7 +3236,7 @@
           },
           "_anchor": "content1-2e",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "4",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
@@ -3510,7 +3530,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CASESTUDIE MULTIDISCIPLINARITEIT</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
