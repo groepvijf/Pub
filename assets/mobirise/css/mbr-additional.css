@@ -424,10 +424,10 @@ h6,
 #header3-a H3 {
   text-align: right;
   font-size: 60px;
-  color: #ffffff;
+  color: #000000;
 }
 #header3-a SMALL {
-  color: #c1c1c1;
+  color: #7c7c7c;
   font-family: 'Titillium Web', sans-serif;
   text-align: right;
 }
@@ -463,19 +463,19 @@ h6,
 }
 #ext_menu-2 .link[aria-expanded="true"],
 #ext_menu-2 .dropdown-menu {
-  background: #000000;
+  background: #3f4444;
 }
 #ext_menu-2 .nav-dropdown-sm .link:focus,
 #ext_menu-2 .nav-dropdown-sm .link:hover,
 #ext_menu-2 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-2 .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #515656!important;
 }
 #ext_menu-2 .navbar,
 #ext_menu-2 .nav-dropdown-sm,
 #ext_menu-2 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-2 .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #585e5e;
 }
 #ext_menu-2 .bg-color.transparent .link {
   color: #ffffff;
@@ -493,18 +493,21 @@ h6,
   color: #c0a375!important;
 }
 #msg-box5-1h P {
-  color: #ffffff;
+  color: #000000;
   font-family: 'Titillium Web', sans-serif;
 }
 #contacts1-1m P {
   text-align: left;
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
 #contacts1-1m STRONG {
   font-family: 'Titillium Web', sans-serif;
+  color: #ffffff;
 }
 #footer1-1n P {
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
 
 
@@ -513,6 +516,7 @@ h6,
 #header1-0 .mbr-section-lead {
   font-family: 'Titillium Web', sans-serif;
   font-size: 19px;
+  color: #ffffff;
 }
 #ext_menu-1 .hide-buttons .nav-btn {
   display: none !important;
@@ -546,19 +550,19 @@ h6,
 }
 #ext_menu-1 .link[aria-expanded="true"],
 #ext_menu-1 .dropdown-menu {
-  background: #000000;
+  background: #3f4444;
 }
 #ext_menu-1 .nav-dropdown-sm .link:focus,
 #ext_menu-1 .nav-dropdown-sm .link:hover,
 #ext_menu-1 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-1 .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #515656!important;
 }
 #ext_menu-1 .navbar,
 #ext_menu-1 .nav-dropdown-sm,
 #ext_menu-1 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-1 .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #585e5e;
 }
 #ext_menu-1 .bg-color.transparent .link {
   color: #ffffff;
@@ -578,12 +582,15 @@ h6,
 #contacts1-1m P {
   text-align: left;
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
 #contacts1-1m STRONG {
   font-family: 'Titillium Web', sans-serif;
+  color: #ffffff;
 }
 #footer1-1n P {
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
 
 
@@ -624,19 +631,19 @@ h6,
 }
 #ext_menu-5 .link[aria-expanded="true"],
 #ext_menu-5 .dropdown-menu {
-  background: #000000;
+  background: #3f4444;
 }
 #ext_menu-5 .nav-dropdown-sm .link:focus,
 #ext_menu-5 .nav-dropdown-sm .link:hover,
 #ext_menu-5 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-5 .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #515656!important;
 }
 #ext_menu-5 .navbar,
 #ext_menu-5 .nav-dropdown-sm,
 #ext_menu-5 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-5 .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #585e5e;
 }
 #ext_menu-5 .bg-color.transparent .link {
   color: #ffffff;
@@ -654,12 +661,12 @@ h6,
   color: #c0a375!important;
 }
 #header1-e .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
   text-align: left;
   font-size: 60px;
 }
 #header1-e .mbr-section-lead {
-  color: #cccccc;
+  color: #7c7c7c;
   text-align: left;
   font-size: 16px;
   font-family: 'Titillium Web', sans-serif;
@@ -672,10 +679,10 @@ h6,
   text-align: center;
 }
 #header3-v H3 {
-  color: #ffffff;
+  color: #000000;
 }
 #header3-v SMALL {
-  color: #cccccc;
+  color: #585e5e;
   font-family: 'Titillium Web', sans-serif;
 }
 #header3-t .mbr-section-title,
@@ -683,22 +690,28 @@ h6,
   text-align: center;
 }
 #header3-t H3 {
-  color: #ffffff;
+  color: #000000;
 }
 #header3-t SMALL {
   font-family: 'Titillium Web', sans-serif;
-  color: #cccccc;
+  color: #585e5e;
 }
 #contacts1-1m P {
   text-align: left;
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
 #contacts1-1m STRONG {
   font-family: 'Titillium Web', sans-serif;
+  color: #ffffff;
 }
 #footer1-1n P {
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
+
+
+
 #ext_menu-h .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -731,19 +744,19 @@ h6,
 }
 #ext_menu-h .link[aria-expanded="true"],
 #ext_menu-h .dropdown-menu {
-  background: #000000;
+  background: #3f4444;
 }
 #ext_menu-h .nav-dropdown-sm .link:focus,
 #ext_menu-h .nav-dropdown-sm .link:hover,
 #ext_menu-h .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-h .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #515656!important;
 }
 #ext_menu-h .navbar,
 #ext_menu-h .nav-dropdown-sm,
 #ext_menu-h .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-h .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #585e5e;
 }
 #ext_menu-h .bg-color.transparent .link {
   color: #ffffff;
@@ -765,11 +778,29 @@ h6,
   text-align: center;
 }
 #header3-1o H3 {
-  color: #ffffff;
+  color: #000000;
 }
 #content1-1p DIV {
+  color: #000000;
+}
+#contacts1-2h P {
+  text-align: left;
+  font-family: 'Titillium Web', sans-serif;
   color: #cccccc;
 }
+#contacts1-2h STRONG {
+  font-family: 'Titillium Web', sans-serif;
+  color: #ffffff;
+}
+#footer1-2i P {
+  font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
+}
+
+
+
+
+
 
 #ext_menu-j .hide-buttons .nav-btn {
   display: none !important;
@@ -803,19 +834,19 @@ h6,
 }
 #ext_menu-j .link[aria-expanded="true"],
 #ext_menu-j .dropdown-menu {
-  background: #0e0e0e;
+  background: #3f4444;
 }
 #ext_menu-j .nav-dropdown-sm .link:focus,
 #ext_menu-j .nav-dropdown-sm .link:hover,
 #ext_menu-j .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-j .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #515656!important;
 }
 #ext_menu-j .navbar,
 #ext_menu-j .nav-dropdown-sm,
 #ext_menu-j .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-j .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #585e5e;
 }
 #ext_menu-j .bg-color.transparent .link {
   color: #ffffff;
@@ -841,6 +872,25 @@ h6,
 }
 #content1-l H1 {
   font-size: 30px;
+}
+#content1-m P {
+  font-family: 'Titillium Web', sans-serif;
+}
+#content1-m DIV {
+  font-family: 'Titillium Web', sans-serif;
+}
+#contacts1-24 P {
+  text-align: left;
+  font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
+}
+#contacts1-24 STRONG {
+  font-family: 'Titillium Web', sans-serif;
+  color: #ffffff;
+}
+#footer1-2i P {
+  font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
 
 
@@ -880,19 +930,19 @@ h6,
 }
 #ext_menu-y .link[aria-expanded="true"],
 #ext_menu-y .dropdown-menu {
-  background: #000000;
+  background: #3f4444;
 }
 #ext_menu-y .nav-dropdown-sm .link:focus,
 #ext_menu-y .nav-dropdown-sm .link:hover,
 #ext_menu-y .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-y .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #515656!important;
 }
 #ext_menu-y .navbar,
 #ext_menu-y .nav-dropdown-sm,
 #ext_menu-y .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-y .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #585e5e;
 }
 #ext_menu-y .bg-color.transparent .link {
   color: #ffffff;
@@ -910,40 +960,47 @@ h6,
   color: #c0a375!important;
 }
 #header1-z .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
   text-align: left;
   font-size: 60px;
 }
 #header1-z .mbr-section-lead {
-  color: #cccccc;
+  color: #585e5e;
   text-align: left;
   font-size: 16px;
   font-family: 'Titillium Web', sans-serif;
 }
 #msg-box5-12 H3 {
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-12 P {
   font-family: 'Titillium Web', sans-serif;
-  color: #cccccc;
+  color: #585e5e;
 }
 #msg-box5-1i H3 {
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box5-1i P {
   font-family: 'Titillium Web', sans-serif;
-  color: #cccccc;
+  color: #585e5e;
 }
 #contacts1-1m P {
   text-align: left;
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
 #contacts1-1m STRONG {
   font-family: 'Titillium Web', sans-serif;
+  color: #ffffff;
 }
 #footer1-1n P {
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
+
+
+
+
 
 #ext_menu-13 .hide-buttons .nav-btn {
   display: none !important;
@@ -977,19 +1034,19 @@ h6,
 }
 #ext_menu-13 .link[aria-expanded="true"],
 #ext_menu-13 .dropdown-menu {
-  background: #0e0e0e;
+  background: #3f4444;
 }
 #ext_menu-13 .nav-dropdown-sm .link:focus,
 #ext_menu-13 .nav-dropdown-sm .link:hover,
 #ext_menu-13 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-13 .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #515656!important;
 }
 #ext_menu-13 .navbar,
 #ext_menu-13 .nav-dropdown-sm,
 #ext_menu-13 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-13 .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #585e5e;
 }
 #ext_menu-13 .bg-color.transparent .link {
   color: #ffffff;
@@ -1016,6 +1073,26 @@ h6,
 #content1-15 H1 {
   font-size: 30px;
 }
+#content1-16 P {
+  font-family: 'Titillium Web', sans-serif;
+}
+#contacts1-24 P {
+  text-align: left;
+  font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
+}
+#contacts1-24 STRONG {
+  font-family: 'Titillium Web', sans-serif;
+  color: #ffffff;
+}
+#footer1-2i P {
+  font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
+}
+
+
+
+
 
 #ext_menu-1a .hide-buttons .nav-btn {
   display: none !important;
@@ -1049,19 +1126,19 @@ h6,
 }
 #ext_menu-1a .link[aria-expanded="true"],
 #ext_menu-1a .dropdown-menu {
-  background: #0e0e0e;
+  background: #3f4444;
 }
 #ext_menu-1a .nav-dropdown-sm .link:focus,
 #ext_menu-1a .nav-dropdown-sm .link:hover,
 #ext_menu-1a .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-1a .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #515656!important;
 }
 #ext_menu-1a .navbar,
 #ext_menu-1a .nav-dropdown-sm,
 #ext_menu-1a .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-1a .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #585e5e;
 }
 #ext_menu-1a .bg-color.transparent .link {
   color: #ffffff;
@@ -1087,6 +1164,22 @@ h6,
 }
 #content1-1c H1 {
   font-size: 30px;
+}
+#content1-1d P {
+  font-family: 'Titillium Web', sans-serif;
+}
+#contacts1-24 P {
+  text-align: left;
+  font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
+}
+#contacts1-24 STRONG {
+  font-family: 'Titillium Web', sans-serif;
+  color: #ffffff;
+}
+#footer1-2i P {
+  font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
 
 
@@ -1123,19 +1216,19 @@ h6,
 }
 #ext_menu-1q .link[aria-expanded="true"],
 #ext_menu-1q .dropdown-menu {
-  background: #000000;
+  background: #3f4444;
 }
 #ext_menu-1q .nav-dropdown-sm .link:focus,
 #ext_menu-1q .nav-dropdown-sm .link:hover,
 #ext_menu-1q .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-1q .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #515656!important;
 }
 #ext_menu-1q .navbar,
 #ext_menu-1q .nav-dropdown-sm,
 #ext_menu-1q .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-1q .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #585e5e;
 }
 #ext_menu-1q .bg-color.transparent .link {
   color: #ffffff;
@@ -1155,13 +1248,17 @@ h6,
 #contacts1-1r P {
   text-align: left;
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
 #contacts1-1r STRONG {
   font-family: 'Titillium Web', sans-serif;
+  color: #ffffff;
 }
 #footer1-1s P {
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
+
 
 
 
@@ -1198,19 +1295,19 @@ h6,
 }
 #ext_menu-1u .link[aria-expanded="true"],
 #ext_menu-1u .dropdown-menu {
-  background: #000000;
+  background: #3f4444;
 }
 #ext_menu-1u .nav-dropdown-sm .link:focus,
 #ext_menu-1u .nav-dropdown-sm .link:hover,
 #ext_menu-1u .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-1u .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #515656!important;
 }
 #ext_menu-1u .navbar,
 #ext_menu-1u .nav-dropdown-sm,
 #ext_menu-1u .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-1u .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #585e5e;
 }
 #ext_menu-1u .bg-color.transparent .link {
   color: #ffffff;
@@ -1234,16 +1331,25 @@ h6,
 #msg-box8-1x .lead P {
   font-family: 'Titillium Web', sans-serif;
 }
+#content1-1y DIV {
+  font-family: 'Titillium Web', sans-serif;
+}
 #contacts1-1v P {
   text-align: left;
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
 #contacts1-1v STRONG {
   font-family: 'Titillium Web', sans-serif;
+  color: #ffffff;
 }
 #footer1-1w P {
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
+
+
+
 
 
 
@@ -1284,19 +1390,19 @@ h6,
 }
 #ext_menu-20 .link[aria-expanded="true"],
 #ext_menu-20 .dropdown-menu {
-  background: #000000;
+  background: #3f4444;
 }
 #ext_menu-20 .nav-dropdown-sm .link:focus,
 #ext_menu-20 .nav-dropdown-sm .link:hover,
 #ext_menu-20 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-20 .nav-dropdown-sm .dropdown-item:hover {
-  background: #000000!important;
+  background: #515656!important;
 }
 #ext_menu-20 .navbar,
 #ext_menu-20 .nav-dropdown-sm,
 #ext_menu-20 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-20 .nav-dropdown-sm .dropdown-menu {
-  background: #000000;
+  background: #585e5e;
 }
 #ext_menu-20 .bg-color.transparent .link {
   color: #ffffff;
@@ -1327,21 +1433,33 @@ h6,
 #content1-22 P {
   font-family: 'Titillium Web', sans-serif;
 }
+#content1-22 DIV {
+  font-family: 'Titillium Web', sans-serif;
+}
 #content1-27 P {
+  font-family: 'Titillium Web', sans-serif;
+}
+#content1-27 DIV {
   font-family: 'Titillium Web', sans-serif;
 }
 #content1-2e P {
   font-family: 'Titillium Web', sans-serif;
 }
+#content1-2e DIV {
+  font-family: 'Titillium Web', sans-serif;
+}
 #contacts1-24 P {
   text-align: left;
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
 #contacts1-24 STRONG {
   font-family: 'Titillium Web', sans-serif;
+  color: #ffffff;
 }
 #footer1-25 P {
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
 
 
@@ -1410,10 +1528,13 @@ h6,
 #contacts1-2h P {
   text-align: left;
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }
 #contacts1-2h STRONG {
   font-family: 'Titillium Web', sans-serif;
+  color: #ffffff;
 }
 #footer1-2i P {
   font-family: 'Titillium Web', sans-serif;
+  color: #cccccc;
 }

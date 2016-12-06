@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudie Multidiscliplinariteit",
-    "currentPage": "fase2.html",
+    "currentPage": "bibliografie.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 94,
+    "uniqCompNum": 99,
     "versionPublish": "3.9.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -42,10 +42,10 @@
             "H3": {
               "text-align": "right",
               "font-size": "60px",
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "SMALL": {
-              "color": "#c1c1c1",
+              "color": "#7c7c7c",
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
               "text-align": "right"
@@ -59,7 +59,7 @@
           "_params": {
             "paddingTop": "7",
             "paddingBottom": "1",
-            "bgColor": "#1a1a1a",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "DE OPDRACHT",
@@ -96,13 +96,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#3f4444"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#515656!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#585e5e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -121,12 +121,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -160,7 +160,7 @@
           "_name": "msg-box5",
           "_styles": {
             "P": {
-              "color": "#ffffff",
+              "color": "#000000",
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             }
@@ -172,7 +172,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#1a1a1a",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -221,11 +221,13 @@
             "P": {
               "text-align": "left",
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             },
             "STRONG": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts1-1m",
@@ -235,7 +237,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -256,7 +258,7 @@
               "active": true
             }
           },
-          "text1": "<strong>UAntwerpen</strong><br>Trajectschijf 3<br>Module 10<br>Casestudie Multidisciplinariteit<br>12/02/2017",
+          "text1": "<strong>UAntwerpen</strong><br>Trajectschijf 3<br>Module 10<br>Casestudie Multidisciplinariteit<br>12/01/2017",
           "text2": "<strong>Groep5</strong><br>Hannah Van Rompaey<br>Pieternel Van Steenbrugge<br>Yasmine De Maeyer<br>An Frijters",
           "text3": "<strong>Contact</strong>hannah.vanrompaey@student.uantwerpen.be<br>pieternel.vansteenbrugge@student.uantwerpen.be<br>yasmine.demaeyer@student.uantwerpen.be<br>an.frijters@student.uantwerpen.be<br>"
         },
@@ -268,7 +270,8 @@
           "_styles": {
             "P": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "footer1-1n",
@@ -278,7 +281,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -308,7 +311,8 @@
             ".mbr-section-lead": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "19px"
+              "font-size": "19px",
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-0",
@@ -316,7 +320,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/15292876-10211085547684919-2101109508-o-2000x1333-81.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-3998-2000x1333-98.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -331,7 +335,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "LACE",
+          "title": "GRENS",
           "text": "In dit online portfolio vindt u ons volledig ontwerpproces van deze casestudie. Elke tussenstap wordt weergegeven, van de allereerste brainstorm tot het eindproduct. Op deze manier kan u ons proces en redenering opvolgen.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -366,13 +370,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#3f4444"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#515656!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#585e5e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -391,12 +395,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -432,11 +436,13 @@
             "P": {
               "text-align": "left",
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             },
             "STRONG": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts1-1m",
@@ -446,7 +452,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -479,7 +485,8 @@
           "_styles": {
             "P": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "footer1-1n",
@@ -489,7 +496,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -535,13 +542,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#3f4444"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#515656!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#585e5e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -560,12 +567,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-5",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -599,12 +606,12 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff",
+              "color": "#000000",
               "text-align": "left",
               "font-size": "60px"
             },
             ".mbr-section-lead": {
-              "color": "#cccccc",
+              "color": "#7c7c7c",
               "text-align": "left",
               "font-size": "16px",
               "font-family": "'Titillium Web', sans-serif",
@@ -621,7 +628,7 @@
             "bgImageRadio": false,
             "showArrow": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#1a1a1a",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -637,7 +644,7 @@
           },
           "title": "VOORONDERZOEK",
           "text": "Een ontwerp komt uiteraard niet zomaar tot stand, er gaat een heel proces van onderzoek aan vooraf. We gingen op zoek naar een interessant onderwerp door te brainstormen en zochten bijpassende inspiratiebronnen.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"vooronderzoek.html#header3-v\" data-toolbar=\"-mbrBtnMove\">BEKIJK ONZE BRAINSTORMS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"vooronderzoek.html#header3-t\" data-toolbar=\"-mbrBtnMove\">BEKIJK ONZE INSPIRATIEBRONNEN</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"vooronderzoek.html#header3-v\" data-toolbar=\"-mbrBtnMove\">BEKIJK ONZE BRAINSTORMS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"vooronderzoek.html#header3-t\" data-toolbar=\"-mbrBtnMove\">BEKIJK ONZE INSPIRATIEBRONNEN</a>"
         },
         {
           "_styles": {
@@ -645,10 +652,10 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "SMALL": {
-              "color": "#cccccc",
+              "color": "#585e5e",
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             }
@@ -661,94 +668,128 @@
           "_params": {
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#474747",
+            "bgColor": "#ffffff",
             "showMeta": true
           },
           "title": "Brainstorm",
           "meta": "Door verschillende brainstormtechnieken toe te passen, gingen we op zoek naar begrippen <br>en elementen die ons inspireerden. Hieruit konden we starten met een eerste conceptvorming."
         },
         {
-          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery2",
+          "_name": "slider3",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 4,
-            "images": [
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
               {
-                "tags": "Awesome",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1375-10.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1375-12-2000x1375-4.jpg",
-                "image": "@PROJECT_PATH@/assets/images/7-2000x1375-12.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "tags": "Beautiful",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1400-18.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1400-73-2000x1400-18.jpg",
-                "image": "@PROJECT_PATH@/assets/images/8-2000x1400-73.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "tags": "Responsive",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1375-12.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1375-79-2000x1375-15.jpg",
-                "image": "@PROJECT_PATH@/assets/images/4-2000x1375-79.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "tags": "Animated",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1375-25.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1375-94-2000x1375-57.jpg",
-                "image": "@PROJECT_PATH@/assets/images/5-2000x1375-94.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "tags": "Animated",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1374-42.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1374-47-2000x1374-14.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6-2000x1374-47.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "tags": "Animated",
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1375-98.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1375-51-2000x1375-55.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-2000x1375-51.jpg",
-                "caption": "Type caption here",
-                "active": true
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1375-40.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
-            "spacing": "4",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#474747",
-            "filterBgColor": false,
-            "fullWidth": true,
+            "fullScreen": false,
+            "bgColor": "#ffffff",
             "showBullets": true
           },
-          "_anchor": "gallery2-x",
-          "articleLayout": false,
-          "allItem": "All"
+          "_anchor": "slider3-2m",
+          "articleLayout": false
         },
         {
           "_styles": {
@@ -756,12 +797,12 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "SMALL": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "color": "#cccccc"
+              "color": "#585e5e"
             }
           },
           "_tags": [
@@ -772,104 +813,245 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#474747",
+            "bgColor": "#ffffff",
             "showMeta": true
           },
           "title": "Inspiratiebronnen",
           "meta": "De volgende kunstenaars uit een andere discipline inspireerden<br>ons en gaven ons een eerste aanzet voor de ontwerpfase."
         },
         {
-          "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery2",
+          "_name": "features3",
+          "_anchor": "features3-2n",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 4,
-            "images": [
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/inspiratie-gavin-worth-2000x2000-28-2000x2000-31.jpg",
-                "image": "@PROJECT_PATH@/assets/images/inspiratie-gavin-worth-2000x2000-28.jpg",
-                "caption": "Gavin Worth",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/inspiratie-ivan-sikic-2000x2000-68-2000x2000-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/inspiratie-ivan-sikic-2000x2000-68.jpg",
-                "caption": "Iván Sikic",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/inspiratie-kersschot3-2000x2000-30-2000x2000-93.jpg",
-                "image": "@PROJECT_PATH@/assets/images/inspiratie-kersschot3-2000x2000-30.jpg",
-                "caption": "Jan Kersschot",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/inspiratie-stephan-vanfleteren-2000x2000-12-2000x2000-8.jpg",
-                "image": "@PROJECT_PATH@/assets/images/inspiratie-stephan-vanfleteren-2000x2000-12.jpg",
-                "caption": "Stephan Vanfleteren",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/insp-berlinde-de-bruyckere-2000x2000-2-2000x2000-5.jpg",
-                "image": "@PROJECT_PATH@/assets/images/insp-berlinde-de-bruyckere-2000x2000-2.jpg",
-                "caption": "Berlinde De Bruyckere",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/insp-joseph-beuys-2000x2000-79-2000x2000-93.jpg",
-                "image": "@PROJECT_PATH@/assets/images/insp-joseph-beuys-2000x2000-79.jpg",
-                "caption": "Joseph Beuys",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/insp-daniel-spoerri-2000x2000-13-2000x2000-8.jpg",
-                "image": "@PROJECT_PATH@/assets/images/insp-daniel-spoerri-2000x2000-13.jpg",
-                "caption": "Daniel Spoerri",
-                "active": true
-              }
-            ],
-            "spacing": "5",
-            "showText": true,
-            "filter": false,
-            "bgColor": "#474747",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
           },
-          "_anchor": "gallery2-g",
-          "articleLayout": false,
-          "allItem": "All"
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/inspiratie-gavin-worth-600x600-41.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "gavinworth.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/inspiratie-ivan-sikic-600x600-20.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "ivánsikic.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/inspiratie-kersschot3-600x600-7.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "jankersschot.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/inspiratie-stephan-vanfleteren-600x600-90.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-2o",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": 4,
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/insp-berlinde-de-bruyckere-600x600-3.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/insp-joseph-beuys-600x600-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/insp-daniel-spoerri-600x600-68.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/blank-600x600-80.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -880,11 +1062,13 @@
             "P": {
               "text-align": "left",
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             },
             "STRONG": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts1-1m",
@@ -894,7 +1078,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -927,7 +1111,8 @@
           "_styles": {
             "P": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "footer1-1n",
@@ -937,7 +1122,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -983,13 +1168,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#3f4444"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#515656!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#585e5e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1008,12 +1193,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-h",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -1046,7 +1231,7 @@
               "text-align": "center"
             },
             "H3": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -1057,7 +1242,7 @@
           "_params": {
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#1a1a1a",
+            "bgColor": "#efefef",
             "showMeta": true
           },
           "title": "Bibliografie",
@@ -1070,16 +1255,93 @@
           "_name": "content1",
           "_styles": {
             "DIV": {
-              "color": "#cccccc"
+              "color": "#000000"
             }
           },
           "_anchor": "content1-1p",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#1a1a1a"
+            "bgColor": "#efefef"
           },
           "text": "http://weekend.knack.be/lifestyle/radar/jan-kersschot-toont-handen-op-verfrissende-manier-in-foto-expo/article-normal-469943.html<div>http://www.kersschot.com/studioinspiration/</div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">http://ivansikic.com/itsmyparty/</span><br></div><div>http://thecreatorsproject.vice.com/nl/blog/ballonnen-goud-en-punaises-staan-symbool-voor-de-inkomensongelijkheid-op-de-wereld</div><div>http://gavinworth.com/flora.html</div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
+            },
+            "STRONG": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-2h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#585e5e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "arrow-prev",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>UAntwerpen</strong><br>Trajectschijf 3<br>Module 10<br>Casestudie Multidisciplinariteit<br>12/01/2017",
+          "text2": "<strong>Groep5</strong><br>Hannah Van Rompaey<br>Pieternel Van Steenbrugge<br>Yasmine De Maeyer<br>An Frijters",
+          "text3": "<strong>Contact</strong>hannah.vanrompaey@student.uantwerpen.be<br>pieternel.vansteenbrugge@student.uantwerpen.be<br>yasmine.demaeyer@student.uantwerpen.be<br>an.frijters@student.uantwerpen.be<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "footer1-2i",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#585e5e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Groep 5."
         }
       ]
     },
@@ -1119,13 +1381,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#3f4444"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#515656!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#585e5e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1144,12 +1406,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-j",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#585e5e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -1243,7 +1505,17 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p></p><p>Zeven jaar na de financiële crisis en vier jaar na het ontstaan van de Occupy-beweging is inkomensongelijkheid nog steeds een groot en wereldwijd probleem. De Peruviaanse kunstenaar en ‘wereldburger’ Iván Sikic visualiseert dit in zijn nieuwste installatie, <i>Its My Party and I Do What I Want To!</i>, die onlangs werd gepresenteerd in het Spaanse Valencia. Zijn poëtische installatie maakt gebruik van 99 ballonnen, één vergulde baksteen en zevenduizend punaises om de scheve financiële situatie in de wereld te symboliseren. Mocht je het niet in één keer doorhebben: de gouden baksteen staat symbool voor de onbereikbare status van de 1% van onze samenleving die het grootste deel van de rijkdom binnenharkt. De baksteen wordt in de lucht gehouden door de zilveren, met helium gevulde ballonnen. Zonder de ballonnen zou de baksteen nooit kunnen zweven, maar individueel gezien zijn de ballonnen volkomen inwisselbaar. En inderdaad zullen de ballonnen in de maanden dat het werk in Valenciaanse gallerie Luis Adelantando tentoongesteld wekelijks worden vervangen door verse heliumballonnen, waarbij de leeggelopen ballonnen triest op de grond blijven liggen. De cirkel van punaises op de vloer onder het kunstwerk ziet er misschien strijdlustig uit, maar iedereen begrijpt dat ze tegen de baksteen niets zullen uithalen.&nbsp;</p><div><br></div><div>Sikic staat bekend om zijn visuele installaties. Eerder zagen we hem de goudkoorts, die de Amazone verscheurt, uitbeelden in LOOT, een installatie waarbij bezoekers een enorm gangenstelsel vol met aarde doorzochten, op zoek naar een stukje goud ter waarde van 2.000 dollar.</div><div><br></div><div>“Het debat over de rijkste 1 procent versus de overige 99 procent wordt al een tijdje gevoerd,” vertelt Sikic aan <i>The Creators Project</i>. Nadat de kunstenaar in meerdere rapporten las dat de groep allerrijksten in 2016 vijftig procent van de rijkdom in de wereld zou kunnen bezitten, voelde hij zich geroepen om te reageren. “Ik begon na te denken over een vorm die deze ongelijkheid zou kunnen uitbeelden. Ik wilde elementen die het probleem iets tastbaarder zouden maken, en het absurde van onze situatie belichten, in de vorm van materiaal dat tegelijkertijd humor, plezier, hebzucht en macht uitstraalt. Bovendien moesten al die elementen door iets onzichtbaars bij elkaar gehouden worden, in dit geval helium.\"&nbsp;</div><div><br></div><div>Sikic’s werk doet denken aan <i>Two Trains</i> van kunstenaar Brian Foo, waarin de inkomensongelijkheid van New York werd vertaald naar een muziekstuk in de metro waarin de tonen en het volume afhingen van het gemiddelde inkomen van de buurt waardoor de metro ging. Sikic’s werk is zo sterk omdat het de ongelijkheid naast tastbaar ook menselijk maakt.</div><div><br></div><i>- </i>Beckett Mufson, 27 juli 2015 (<a href=\"http://http://thecreatorsproject.vice.com/nl/blog/ballonnen-goud-en-punaises-staan-symbool-voor-de-inkomensongelijkheid-op-de-wereld\" target=\"_blank\" class=\"text-info\">Artikel in 'The Creators Project'</a>)<p></p><p></p><p></p><p></p>"
+          "text": "<p></p><p>Zeven jaar na de financiële crisis en vier jaar na het ontstaan van de Occupy-beweging is inkomensongelijkheid nog steeds een groot en wereldwijd probleem. De Peruviaanse kunstenaar en ‘wereldburger’ Iván Sikic visualiseert dit in zijn nieuwste installatie, <i>Its My Party and I Do What I Want To!</i>, die onlangs werd gepresenteerd in het Spaanse Valencia. Zijn poëtische installatie maakt gebruik van 99 ballonnen, één vergulde baksteen en zevenduizend punaises om de scheve financiële situatie in de wereld te symboliseren. Mocht je het niet in één keer doorhebben: de gouden baksteen staat symbool voor de onbereikbare status van de 1% van onze samenleving die het grootste deel van de rijkdom binnenharkt. De baksteen wordt in de lucht gehouden door de zilveren, met helium gevulde ballonnen. Zonder de ballonnen zou de baksteen nooit kunnen zweven, maar individueel gezien zijn de ballonnen volkomen inwisselbaar. En inderdaad zullen de ballonnen in de maanden dat het werk in Valenciaanse gallerie Luis Adelantando tentoongesteld wekelijks worden vervangen door verse heliumballonnen, waarbij de leeggelopen ballonnen triest op de grond blijven liggen. De cirkel van punaises op de vloer onder het kunstwerk ziet er misschien strijdlustig uit, maar iedereen begrijpt dat ze tegen de baksteen niets zullen uithalen.&nbsp;</p><div><br></div><div>Sikic staat bekend om zijn visuele installaties. Eerder zagen we hem de goudkoorts, die de Amazone verscheurt, uitbeelden in LOOT, een installatie waarbij bezoekers een enorm gangenstelsel vol met aarde doorzochten, op zoek naar een stukje goud ter waarde van 2.000 dollar.</div><div><br></div><div>“Het debat over de rijkste 1 procent versus de overige 99 procent wordt al een tijdje gevoerd,” vertelt Sikic aan <i>The Creators Project</i>. Nadat de kunstenaar in meerdere rapporten las dat de groep allerrijksten in 2016 vijftig procent van de rijkdom in de wereld zou kunnen bezitten, voelde hij zich geroepen om te reageren. “Ik begon na te denken over een vorm die deze ongelijkheid zou kunnen uitbeelden. Ik wilde elementen die het probleem iets tastbaarder zouden maken, en het absurde van onze situatie belichten, in de vorm van materiaal dat tegelijkertijd humor, plezier, hebzucht en macht uitstraalt. Bovendien moesten al die elementen door iets onzichtbaars bij elkaar gehouden worden, in dit geval helium.\"&nbsp;</div><div><br></div><div>Sikic’s werk doet denken aan <i>Two Trains</i> van kunstenaar Brian Foo, waarin de inkomensongelijkheid van New York werd vertaald naar een muziekstuk in de metro waarin de tonen en het volume afhingen van het gemiddelde inkomen van de buurt waardoor de metro ging. Sikic’s werk is zo sterk omdat het de ongelijkheid naast tastbaar ook menselijk maakt.</div><div><br></div><i>- </i>Beckett Mufson, 27 juli 2015 (<a href=\"http://http://thecreatorsproject.vice.com/nl/blog/ballonnen-goud-en-punaises-staan-symbool-voor-de-inkomensongelijkheid-op-de-wereld\" target=\"_blank\" class=\"text-info\">Artikel in 'The Creators Project'</a>)<p></p><p></p><p></p><p></p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "DIV": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -1301,115 +1573,192 @@
           "_name": "slider3",
           "_params": {
             "autoplay": true,
-            "paddingTop": "1",
+            "paddingTop": 3,
             "paddingBottom": 3,
             "timeout": 5,
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/insp-ivan-sikic5-2000x1333-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/insp-ivan-sikic-2000x1333-90.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
                 "contentAlign": "center",
                 "showTitle": false,
-                "title": "",
+                "title": "IMAGE SLIDER",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/insp-kersschot-1-2000x1333-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/insp-ivan-sikic2-2000x1334-89.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "left",
                 "showTitle": false,
-                "title": "",
+                "title": "BACKGROUND VIDEO",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/insp-kersschot6-2000x1333-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/insp-ivan-sikic3-2000x1333-1.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "showTitle": false,
-                "title": "",
+                "title": "BOOTSTRAP SLIDER",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/insp-kersschot7-2000x1332-42.jpg",
+                "image": "@PROJECT_PATH@/assets/images/insp-ivan-sikic4-2000x1333-66.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "showTitle": false,
-                "title": "",
+                "title": "BOOTSTRAP SLIDER",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/insp-kersschot8-2000x1333-47.jpg",
+                "image": "@PROJECT_PATH@/assets/images/insp-ivan-sikic5-2000x1333-40.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "showTitle": false,
-                "title": "",
+                "title": "BOOTSTRAP SLIDER",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/insp-kersschot9-2000x1333-34.jpg",
+                "image": "@PROJECT_PATH@/assets/images/insp-ivan-sikic7-2000x1333-15.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "showTitle": false,
-                "title": "",
+                "title": "BOOTSTRAP SLIDER",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/insp-kersschot10-2000x1333-41.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/insp-ivan-sikic6-2000x1333-49.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "showTitle": false,
-                "title": "",
+                "title": "BOOTSTRAP SLIDER",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
             "bgColor": "#fff",
             "showBullets": true
           },
-          "_anchor": "slider3-s",
+          "_anchor": "slider3-2q",
           "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
+            },
+            "STRONG": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-24",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#585e5e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "arrow-prev",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>UAntwerpen</strong><br>Trajectschijf 3<br>Module 10<br>Casestudie Multidisciplinariteit<br>12/01/2017",
+          "text2": "<strong>Groep5</strong><br>Hannah Van Rompaey<br>Pieternel Van Steenbrugge<br>Yasmine De Maeyer<br>An Frijters",
+          "text3": "<strong>Contact</strong>hannah.vanrompaey@student.uantwerpen.be<br>pieternel.vansteenbrugge@student.uantwerpen.be<br>yasmine.demaeyer@student.uantwerpen.be<br>an.frijters@student.uantwerpen.be<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "footer1-2i",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#585e5e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Groep 5."
         }
       ]
     },
@@ -1449,13 +1798,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#3f4444"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#515656!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#585e5e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1474,12 +1823,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-y",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -1513,12 +1862,12 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff",
+              "color": "#000000",
               "text-align": "left",
               "font-size": "60px"
             },
             ".mbr-section-lead": {
-              "color": "#cccccc",
+              "color": "#585e5e",
               "text-align": "left",
               "font-size": "16px",
               "font-family": "'Titillium Web', sans-serif",
@@ -1531,7 +1880,7 @@
             "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#1a1a1a",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1556,12 +1905,12 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "P": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "color": "#cccccc"
+              "color": "#585e5e"
             }
           },
           "_anchor": "msg-box5-12",
@@ -1571,7 +1920,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#474747",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1589,7 +1938,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fase1-1400x937-28.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-0029-1400x937-9.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -1618,12 +1967,12 @@
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "P": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "color": "#cccccc"
+              "color": "#585e5e"
             }
           },
           "_anchor": "msg-box5-1i",
@@ -1633,7 +1982,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#474747",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1651,7 +2000,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/fase2-1400x933-82.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc-4014-1400x933-50.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1682,11 +2031,13 @@
             "P": {
               "text-align": "left",
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             },
             "STRONG": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts1-1m",
@@ -1696,7 +2047,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1729,7 +2080,8 @@
           "_styles": {
             "P": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "footer1-1n",
@@ -1739,7 +2091,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1785,13 +2137,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#3f4444"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#515656!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#585e5e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1810,12 +2162,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-13",
           "_params": {
-            "bgColor": "#282828",
+            "bgColor": "#585e5e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -1909,7 +2261,13 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p></p><p>Tekst: wat doet hij + waarom inspireert hij ons.</p><p></p><p></p><p></p><p></p>"
+          "text": "<p></p><p>Tekst: wat doet hij + waarom inspireert hij ons.</p><p></p><p></p><p></p><p></p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
         },
         {
           "_inherit": "msg-box5",
@@ -1935,7 +2293,7 @@
             "overlayColor": "#fff",
             "inverse": true,
             "showTitle": false,
-            "showText": true,
+            "showText": false,
             "showButtons": false
           },
           "media": {
@@ -1967,115 +2325,178 @@
           "_name": "slider3",
           "_params": {
             "autoplay": true,
-            "paddingTop": "1",
+            "paddingTop": 3,
             "paddingBottom": 3,
             "timeout": 5,
             "slides": [
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/insp-kersschot-1-2000x1333-41.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gavinworth-6-2000x848-94.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
                 "contentAlign": "center",
                 "showTitle": false,
-                "title": "",
+                "title": "IMAGE SLIDER",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/insp-kersschot6-2000x1333-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gavinworth-1-2000x848-5.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "left",
                 "showTitle": false,
-                "title": "",
+                "title": "BACKGROUND VIDEO",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/insp-kersschot7-2000x1332-95.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gavinworth-2-2000x848-40.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "showTitle": false,
-                "title": "",
+                "title": "BOOTSTRAP SLIDER",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/insp-kersschot8-2000x1333-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gavinworth-3-2000x848-90.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "showTitle": false,
-                "title": "",
+                "title": "BOOTSTRAP SLIDER",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
-                "image": "@PROJECT_PATH@/assets/images/insp-kersschot9-2000x1333-25.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gavinworth-4-2000x848-30.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "showTitle": false,
-                "title": "",
+                "title": "BOOTSTRAP SLIDER",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/insp-kersschot10-2000x1333-36.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "",
-                "showText": false,
-                "text": "",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/insp-kersschot11-2000x1333-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gavinworth-5-2000x848-47.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "right",
                 "showTitle": false,
-                "title": "",
+                "title": "BOOTSTRAP SLIDER",
                 "showText": false,
-                "text": "",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
             "fullScreen": false,
             "bgColor": "#fff",
             "showBullets": true
           },
-          "_anchor": "slider3-19",
+          "_anchor": "slider3-2p",
           "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
+            },
+            "STRONG": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-24",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#585e5e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "arrow-prev",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>UAntwerpen</strong><br>Trajectschijf 3<br>Module 10<br>Casestudie Multidisciplinariteit<br>12/01/2017",
+          "text2": "<strong>Groep5</strong><br>Hannah Van Rompaey<br>Pieternel Van Steenbrugge<br>Yasmine De Maeyer<br>An Frijters",
+          "text3": "<strong>Contact</strong>hannah.vanrompaey@student.uantwerpen.be<br>pieternel.vansteenbrugge@student.uantwerpen.be<br>yasmine.demaeyer@student.uantwerpen.be<br>an.frijters@student.uantwerpen.be<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "footer1-2i",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#585e5e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Groep 5."
         }
       ]
     },
@@ -2115,13 +2536,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#3f4444"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#515656!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#585e5e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2140,12 +2561,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1a",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -2239,7 +2660,13 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Tekst: zijn werk + waarom inspireert hij ons.</span><br></p><p></p><p></p><p></p><p></p>"
+          "text": "<p></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Tekst: zijn werk + waarom inspireert hij ons.</span><br></p><p></p><p></p><p></p><p></p>",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          }
         },
         {
           "_tags": [
@@ -2357,6 +2784,83 @@
           },
           "_anchor": "slider3-1g",
           "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
+            },
+            "STRONG": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts1-24",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#585e5e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "arrow-prev",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>UAntwerpen</strong><br>Trajectschijf 3<br>Module 10<br>Casestudie Multidisciplinariteit<br>12/01/2017",
+          "text2": "<strong>Groep5</strong><br>Hannah Van Rompaey<br>Pieternel Van Steenbrugge<br>Yasmine De Maeyer<br>An Frijters",
+          "text3": "<strong>Contact</strong>hannah.vanrompaey@student.uantwerpen.be<br>pieternel.vansteenbrugge@student.uantwerpen.be<br>yasmine.demaeyer@student.uantwerpen.be<br>an.frijters@student.uantwerpen.be<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
+            }
+          },
+          "_anchor": "footer1-2i",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#585e5e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Groep 5."
         }
       ]
     },
@@ -2425,13 +2929,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#3f4444"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#515656!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#585e5e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2450,12 +2954,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1q",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -2491,11 +2995,13 @@
             "P": {
               "text-align": "left",
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             },
             "STRONG": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts1-1r",
@@ -2505,7 +3011,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2526,7 +3032,7 @@
               "active": true
             }
           },
-          "text1": "<strong>UAntwerpen</strong><br>Trajectschijf 3<br>Module 10<br>Casestudie Multidisciplinariteit<br>12/02/2017",
+          "text1": "<strong>UAntwerpen</strong><br>Trajectschijf 3<br>Module 10<br>Casestudie Multidisciplinariteit<br>12/01/2017",
           "text2": "<strong>Groep5</strong><br>Hannah Van Rompaey<br>Pieternel Van Steenbrugge<br>Yasmine De Maeyer<br>An Frijters",
           "text3": "<strong>Contact</strong>hannah.vanrompaey@student.uantwerpen.be<br>pieternel.vansteenbrugge@student.uantwerpen.be<br>yasmine.demaeyer@student.uantwerpen.be<br>an.frijters@student.uantwerpen.be<br>"
         },
@@ -2538,7 +3044,8 @@
           "_styles": {
             "P": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "footer1-1s",
@@ -2548,7 +3055,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2594,13 +3101,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#3f4444"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#515656!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#585e5e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2619,12 +3126,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1u",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -2671,7 +3178,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-00561-2000x1338-73.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/header-fase1-2000x749-92.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2694,13 +3201,19 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
           "_anchor": "content1-1y",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>[ UITLEG FASE 1 ] Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text": "<p>De voornamelijkste brainstorms die we deden, gingen over maatschappelijke thema’s, multidisciplinariteit en over ons idee over het object, zoals de materialiteit, kleur en vorm. Hieruit hebben we besloten dat de kloof tussen arm en rijk een zeer interessant maatschappelijk thema is, maar dat dit tegelijkertijd ook één van de moeilijkste elementen is om te onderzoeken. Daarom gingen we ons focussen op één element dat armen en rijken gemeenschappelijk of verschillend hebben. Hierbij dachten we aan, lichaamsdelen, rituelen en koopgedrag. </p><p><br></p><p>Uiteindelijk gingen we het koopgedrag van mensen onderzoeken. Hierbij namen we foto’s van aankopen op de rolband van de kassa. We zagen verschillende soorten aankopen, snelle en trage aankopen, noodzakelijke en luxueuze aankopen, kleine en grootte aankopen. Deze foto’s zijn we gaan vertalen naar 2D figuren. We trokken lijnen rond de verschillende producten om zo een abstract overzicht te krijgen van de verschillende aankopen. Nadat we deze figuren overtrokken hadden, besloten we dat het koopgedrag nog steeds relatief weinig meerwaarde geeft aan het onderzoek tussen arm en rijk. Hoewel dit maatschappelijke thema zeer interessant is, hebben we toch besloten om het een beetje los te laten. Om dit onderzoek tot een goed einde te brengen, hadden we meer tijd nodig.</p>"
         },
         {
           "_inherit": "gallery1",
@@ -2794,11 +3307,13 @@
             "P": {
               "text-align": "left",
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             },
             "STRONG": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts1-1v",
@@ -2808,7 +3323,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2841,7 +3356,8 @@
           "_styles": {
             "P": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "footer1-1w",
@@ -2851,7 +3367,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -2897,13 +3413,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
+              "background": "#3f4444"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
+              "background": "#515656!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
+              "background": "#585e5e"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2922,12 +3438,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-20",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -3006,6 +3522,10 @@
             "P": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "DIV": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             }
           },
           "_anchor": "content1-22",
@@ -3014,7 +3534,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>[ UITLEG FASE 2 - aluminiumfolie] Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text": "Het idee van figuren ‘overtrekken’ vonden de docenten creatief. Met dit idee moesten we zeker verder experimenteren, alleen moesten we dit toepassen op vormen en objecten. De kloof tussen arm en rijk en de productaankopen bleven een inspiratie bij de volgende stappen. We gingen experimenteren met het eetgerei van armen en rijken. We probeerden deze na te bootsen volgens onze eigen gedachten en ideëen. Vervolgens overtrokken we de spullen met aluminiumfolie. Dit bracht ons naar driedimensionale vormen van het eetservies, maar ook andere vormen en vormen die we terug brachten naar 2D. Dit materiaal had al een positief effect om de vormen aan te houden, maar we gingen op zoek naar andere, en betere materialen."
         },
         {
           "_inherit": "gallery1",
@@ -3108,6 +3628,10 @@
             "P": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "DIV": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             }
           },
           "_anchor": "content1-27",
@@ -3116,7 +3640,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>[ UITLEG FASE 2 - huishoudfolie ] Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text": "Omdat we tijdens een begeleiding spraken over het vacuüm trekken van objecten, zochten we naar alternatieven van materialen. Hierbij dachten we aan plastieken zakken, rekfolie, kunststof en huishoudfolie. We experimenteerden eerst met huishoudfolie. Het bestek van wat volgens ons het verschil tussen arm en rijk aangaf, pakten we in met de folie. Arm en rijk zijn twee tegenovergestelden van elkaar, maar hebben tegelijkertijd ook dingen gemeenschappelijk. De folie zou dan duiden op het gemeenschappelijke tussen arm en rijk. We zochten naar contrasten tussen de twee verschillende ‘pakjes’ van folie. Dit deden we aan de hand van verschillende, kenmerkende materialen, maar ook licht en schaduw. Hierbij ontdekten we dat het licht, met de gedetailleerde schaduw een meerwaarde gaf aan het object. We besloten dat licht en schaduw essentieel is bij kunst. Tijdens het onderzoek vonden we een interessant beeld. Een werk van Joseph Beuys inspireerde ons naar een volgende stap.<p>.</p>"
         },
         {
           "_inherit": "gallery1",
@@ -3176,6 +3700,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-3928-2000x1205-8-2000x1205-40.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc-3928-2000x1205-8.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc-3998-2000x1333-27-2000x1333-16.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-3998-2000x1333-27.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
@@ -3232,6 +3766,10 @@
             "P": {
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            },
+            "DIV": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
             }
           },
           "_anchor": "content1-2e",
@@ -3240,7 +3778,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>[ UITLEG FASE 2 - textiel en stijfsel ] Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools <a href=\"http://google.com/\">available</a> today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
+          "text": "Het werk van Joseph Beuys (naam?) dat ons inspireerde, is een piano ingepakt met stof. We keken hierbij enkel naar de lay-out en niet naar het concept. Daarom gingen we experimenteren met textiel. We experimenteerden eerst met kant, zoals dat van een tafellaken. Deze stof mengden we met stijfsel, maakten het passend op het eetservies en lieten het rusten tot dat het helemaal droog en hard was. De gedroogde stof in combinatie met licht en schaduw gaf een meerwaarde aan het object, maar het was nog niet helemaal wat we hadden verwacht, daarom gaan we nu verder experimenteren met tule. We willen werken met een fijnere stof, zodat de details beter zichtbaar zijn en zodat het in combinatie met licht mooier tot zijn recht komt."
         },
         {
           "_inherit": "gallery1",
@@ -3374,11 +3912,13 @@
             "P": {
               "text-align": "left",
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             },
             "STRONG": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts1-24",
@@ -3388,7 +3928,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3421,7 +3961,8 @@
           "_styles": {
             "P": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "footer1-25",
@@ -3431,7 +3972,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3500,12 +4041,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2g",
           "_params": {
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
-            "transparent": false,
+            "transparent": true,
             "sticky": true,
             "logo": true,
             "showBrand": true,
@@ -3541,11 +4082,13 @@
             "P": {
               "text-align": "left",
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             },
             "STRONG": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts1-2h",
@@ -3555,7 +4098,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -3588,7 +4131,8 @@
           "_styles": {
             "P": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#cccccc"
             }
           },
           "_anchor": "footer1-2i",
@@ -3598,7 +4142,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgColor": "#585e5e",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
