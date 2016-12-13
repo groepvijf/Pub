@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudie Multidiscliplinariteit",
-    "currentPage": "index.html",
+    "currentPage": "jefgeys.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 169,
+    "uniqCompNum": 170,
     "versionPublish": "3.9.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -303,43 +303,6 @@
       },
       "components": [
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "19px",
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "header1-0",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-4258-2000x1333-44.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "GRENS",
-          "text": "In dit online portfolio vindt u ons volledig ontwerpproces van deze casestudie. Elke tussenstap wordt weergegeven, van de allereerste brainstorm tot het eindproduct. Op deze manier kan u ons proces en redenering opvolgen.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -389,11 +352,11 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
+              "color": "@primaryColor!important"
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-1",
+          "_anchor": "ext_menu-4p",
           "_params": {
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
@@ -425,7 +388,44 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "19px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-4258-2000x1333-44.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "GRENS",
+          "text": "In dit online portfolio vindt u ons volledig ontwerpproces van deze casestudie. Elke tussenstap wordt weergegeven, van de allereerste brainstorm tot het eindproduct. Op deze manier kan u ons proces en redenering opvolgen.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
@@ -5400,7 +5400,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
             },
             ".mbr-section-title": {
-              "font-size": "48px"
+              "font-size": "48px",
+              "color": "#ffffff"
             }
           },
           "_tags": [
