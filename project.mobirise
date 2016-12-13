@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudie Multidiscliplinariteit",
-    "currentPage": "ontwerpproces.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 158,
+    "uniqCompNum": 169,
     "versionPublish": "3.9.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -34,37 +34,6 @@
         "order": 2
       },
       "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "right",
-              "font-size": "60px",
-              "color": "#000000"
-            },
-            "SMALL": {
-              "color": "#7c7c7c",
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "text-align": "right"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-a",
-          "_params": {
-            "paddingTop": "7",
-            "paddingBottom": "1",
-            "bgColor": "#cccccc",
-            "showMeta": true
-          },
-          "title": "DE OPDRACHT",
-          "meta": "In deze casestudie ontwierpen we vanuit een multidisciplinaire <br>invalshoek een prototype van een contextueel object."
-        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -115,11 +84,11 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-2",
+          "_anchor": "ext_menu-39",
           "_params": {
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
@@ -151,7 +120,38 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "right",
+              "font-size": "48px",
+              "color": "#000000"
+            },
+            "SMALL": {
+              "color": "#585e5e",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-a",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc",
+            "showMeta": true
+          },
+          "title": "DE OPDRACHT",
+          "meta": "In deze casestudie ontwierpen we vanuit een multidisciplinaire <br>invalshoek een prototype van een contextueel object."
         },
         {
           "_tags": [
@@ -425,7 +425,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -508,7 +508,7 @@
     },
     "bibliografie.html": {
       "settings": {
-        "order": 15
+        "order": 16
       },
       "components": [
         {
@@ -565,7 +565,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-h",
+          "_anchor": "ext_menu-34",
           "_params": {
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
@@ -597,7 +597,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -721,7 +721,7 @@
     },
     "ivánsikic.html": {
       "settings": {
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -778,7 +778,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-j",
+          "_anchor": "ext_menu-34",
           "_params": {
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
@@ -810,7 +810,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -1094,7 +1094,7 @@
     },
     "ontwerpproces.html": {
       "settings": {
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1151,7 +1151,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-y",
+          "_anchor": "ext_menu-34",
           "_params": {
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
@@ -1183,50 +1183,27 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000",
-              "text-align": "left",
-              "font-size": "60px"
-            },
-            ".mbr-section-lead": {
-              "color": "#585e5e",
-              "text-align": "left",
-              "font-size": "16px",
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
-            }
-          },
-          "_anchor": "header1-z",
+          "_name": "header3",
+          "_anchor": "header3-4e",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "paddingTop": "5",
+            "paddingBottom": "0",
             "bgColor": "#cccccc",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "showMeta": true
           },
           "title": "ONTWERPPROCES",
-          "text": "Na onze brainstormsessies waren we klaar om een eerste concept uit te werken.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BEKIJK ONZE BRAINSTORMS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">BEKIJK ONZE INSPIRATIEBRONNEN</a>"
+          "meta": "Na onze brainstormsessies waren we klaar om een eerste concept uit te werken.&nbsp;"
         },
         {
           "_tags": [
@@ -1245,7 +1222,7 @@
           },
           "_anchor": "msg-box5-12",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": 0,
             "parallax": true,
             "bgImageRadio": false,
@@ -1286,7 +1263,7 @@
               "size": 0
             }
           },
-          "title": "<a href=\"fase1.html\" class=\"text-warning\">Fase 1</a>",
+          "title": "<a href=\"fase1.html\" class=\"text-black\">Fase 1</a>",
           "text": "Kooppatronen van mensen in de supermarkt omzetten in een 2D curve.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"fase1.html\" data-toolbar=\"-mbrBtnMove\">LEES MEER</a>"
         },
@@ -1348,7 +1325,7 @@
               "size": 0
             }
           },
-          "title": "<a href=\"fase2.html\" class=\"text-warning\">Fase 2</a>",
+          "title": "<a href=\"fase2.html\" class=\"text-black\">Fase 2</a>",
           "text": "Eetgewoonten van mensen omzetten in een 3D curve aan de hand van verschillende materialen.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"fase2.html\" data-toolbar=\"-mbrBtnMove\">LEES MEER</a>"
         },
@@ -1357,10 +1334,18 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#585e5e"
+            }
+          },
           "_anchor": "msg-box5-40",
           "_params": {
             "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1400,14 +1385,9 @@
               "size": 0
             }
           },
-          "title": "<a href=\"page3.html\" class=\"text-warning\">Fase 3</a>",
+          "title": "<a href=\"page3.html\" class=\"text-black\">Fase 3</a>",
           "text": "Verdere materiaal- en stijfheidstesten.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEES MEER</a>",
-          "_styles": {
-            "H3": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEES MEER</a>"
         },
         {
           "_tags": [
@@ -1490,7 +1470,7 @@
     },
     "gavinworth.html": {
       "settings": {
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -1547,7 +1527,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-13",
+          "_anchor": "ext_menu-34",
           "_params": {
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
@@ -1579,7 +1559,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -1894,7 +1874,7 @@
     },
     "jankersschot.html": {
       "settings": {
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1951,7 +1931,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-1a",
+          "_anchor": "ext_menu-34",
           "_params": {
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
@@ -1983,7 +1963,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -2261,38 +2241,9 @@
     },
     "eindproduct.html": {
       "settings": {
-        "order": 14
+        "order": 15
       },
       "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-1t",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/15292876-10211085547684919-2101109508-o-2000x1333-33.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "FULL SCREEN INTRO",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -2343,11 +2294,11 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-1q",
+          "_anchor": "ext_menu-34",
           "_params": {
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
@@ -2379,7 +2330,36 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1t",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/15292876-10211085547684919-2101109508-o-2000x1333-33.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_tags": [
@@ -2462,7 +2442,7 @@
     },
     "fase1.html": {
       "settings": {
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -2515,11 +2495,11 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-1u",
+          "_anchor": "ext_menu-34",
           "_params": {
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
@@ -2551,7 +2531,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -2608,7 +2588,7 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text": "<p>De voornamelijkste brainstorms die we deden, gingen over maatschappelijke thema’s, multidisciplinariteit en over ons idee over het object, zoals de materialiteit, kleur en vorm. Hieruit hebben we besloten dat de kloof tussen arm en rijk een zeer interessant maatschappelijk thema is, maar dat dit tegelijkertijd ook één van de moeilijkste elementen is om te onderzoeken. Daarom gingen we ons focussen op één element dat armen en rijken gemeenschappelijk of verschillend hebben. Hierbij dachten we aan, lichaamsdelen, rituelen en koopgedrag. </p><p><br></p><p>Uiteindelijk gingen we het koopgedrag van mensen onderzoeken. Hierbij namen we foto’s van aankopen op de rolband van de kassa. We zagen verschillende soorten aankopen, snelle en trage aankopen, noodzakelijke en luxueuze aankopen, kleine en grootte aankopen. Deze foto’s zijn we gaan vertalen naar 2D figuren. We trokken lijnen rond de verschillende producten om zo een abstract overzicht te krijgen van de verschillende aankopen. Nadat we deze figuren overtrokken hadden, besloten we dat het koopgedrag nog steeds relatief weinig meerwaarde geeft aan het onderzoek tussen arm en rijk. Hoewel dit maatschappelijke thema zeer interessant is, hebben we toch besloten om het een beetje los te laten. Om dit onderzoek tot een goed einde te brengen, hadden we meer tijd nodig.</p>"
+          "text": "<p>De voornamelijkste brainstorms die we deden, gingen over maatschappelijke thema’s, multidisciplinariteit en over ons idee over het object, zoals de materialiteit, kleur en vorm. Hieruit hebben we besloten dat de kloof tussen arm en rijk een zeer interessant maatschappelijk thema is, maar dat dit tegelijkertijd ook één van de moeilijkste elementen is om te onderzoeken. Daarom gingen we ons focussen op één element dat armen en rijken gemeenschappelijk of verschillend hebben. Hierbij dachten we aan, lichaamsdelen, rituelen en koopgedrag. </p><p><br></p><p>Uiteindelijk gingen we het koopgedrag van mensen onderzoeken. Hierbij namen we foto’s van aankopen op de rolband van de kassa. We ontdekten verschillende soorten koopgedrag: snelle en trage, noodzakelijke en luxueuze en kleine en grote aankopen. Deze foto’s zijn we gaan vertalen naar 2D figuren. We lieten ons hierbij inspireren door <a href=\"gavinworth.html\" target=\"_blank\" class=\"text-white\">Gavin Worth</a>, een beeldend kunstenaar die 3D objecten omzet in contourtekeningen uit staal. We trokken lijnen rond de verschillende producten om zo een abstract overzicht te krijgen van de verschillende aankopen. Nadat we deze figuren overtrokken hadden, besloten we dat het koopgedrag nog steeds relatief weinig meerwaarde geeft aan het onderzoek tussen arm en rijk. Hoewel dit maatschappelijke thema zeer interessant is, hebben we toch besloten om het een beetje los te laten. Om dit onderzoek tot een goed einde te brengen, hadden we meer tijd nodig.</p>"
         },
         {
           "_inherit": "gallery1",
@@ -2774,7 +2754,7 @@
     },
     "fase2.html": {
       "settings": {
-        "order": 12
+        "order": 13
       },
       "components": [
         {
@@ -2863,7 +2843,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -3045,7 +3025,7 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text": "Omdat we tijdens een begeleiding spraken over het vacuüm trekken van objecten, zochten we naar alternatieven van materialen. Hierbij dachten we aan plastieken zakken, rekfolie, kunststof en huishoudfolie. We experimenteerden eerst met huishoudfolie. Het bestek van wat volgens ons het verschil tussen arm en rijk aangaf, pakten we in met de folie. Arm en rijk zijn twee tegenovergestelden van elkaar, maar hebben tegelijkertijd ook dingen gemeenschappelijk. De folie zou dan duiden op het gemeenschappelijke tussen arm en rijk. We zochten naar contrasten tussen de twee verschillende ‘pakjes’ van folie. Dit deden we aan de hand van verschillende, kenmerkende materialen, maar ook licht en schaduw. Hierbij ontdekten we dat het licht, met de gedetailleerde schaduw een meerwaarde gaf aan het object. We besloten dat licht en schaduw essentieel is bij kunst. Tijdens het onderzoek vonden we een interessant beeld. Een werk van Joseph Beuys inspireerde ons naar een volgende stap.<p>.</p>"
+          "text": "Omdat we tijdens een begeleiding spraken over het vacuüm trekken van objecten, zochten we naar alternatieven van materialen. Hierbij dachten we aan plastieken zakken, rekfolie, kunststof en huishoudfolie. We experimenteerden eerst met huishoudfolie. Het bestek van wat volgens ons het verschil tussen arm en rijk aangaf, pakten we in met de folie. Arm en rijk zijn twee tegenovergestelden van elkaar, maar hebben tegelijkertijd ook dingen gemeenschappelijk. De folie zou dan duiden op het gemeenschappelijke tussen arm en rijk. We zochten naar contrasten tussen de twee verschillende ‘pakjes’ van folie. Dit deden we aan de hand van verschillende, kenmerkende materialen, maar ook licht en schaduw. Hierbij ontdekten we dat het licht, met de gedetailleerde schaduw een meerwaarde gaf aan het object. We besloten dat licht en schaduw essentieel is bij kunst.&nbsp;<p>.</p>"
         },
         {
           "_inherit": "gallery1",
@@ -3183,7 +3163,7 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text": "Het werk van Joseph Beuys (naam?) dat ons inspireerde, is een piano ingepakt met stof. We keken hierbij enkel naar de lay-out en niet naar het concept. Daarom gingen we experimenteren met textiel. We experimenteerden eerst met kant, zoals dat van een tafellaken. Deze stof mengden we met stijfsel, maakten het passend op het eetservies en lieten het rusten tot dat het helemaal droog en hard was. De gedroogde stof in combinatie met licht en schaduw gaf een meerwaarde aan het object, maar het was nog niet helemaal wat we hadden verwacht, daarom gaan we nu verder experimenteren met tule. We willen werken met een fijnere stof, zodat de details beter zichtbaar zijn en zodat het in combinatie met licht mooier tot zijn recht komt."
+          "text": "Tijdens het onderzoek vonden we een interessant werk van Joseph Beuys: een piano ingepakt met stof. We keken hierbij enkel naar de lay-out en niet naar het concept. Daarom gingen we experimenteren met textiel. We experimenteerden eerst met kant, zoals dat van een tafellaken. Deze stof mengden we met stijfsel, maakten het passend op het eetservies en lieten het rusten tot dat het helemaal droog en hard was. De gedroogde stof in combinatie met licht en schaduw gaf een meerwaarde aan het object, maar het was nog niet helemaal wat we hadden verwacht, daarom gaan we nu verder experimenteren met tule. We willen werken met een fijnere stof, zodat de details beter zichtbaar zijn en zodat het in combinatie met licht mooier tot zijn recht komt."
         },
         {
           "_inherit": "gallery1",
@@ -3387,323 +3367,6 @@
         }
       ]
     },
-    "brainstorm2": {
-      "settings": {
-        "order": 3
-      },
-      "components": [
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#000000"
-            },
-            "SMALL": {
-              "color": "#585e5e",
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-37",
-          "_params": {
-            "paddingTop": "6",
-            "paddingBottom": 1,
-            "bgColor": "#cccccc",
-            "showMeta": true
-          },
-          "title": "Brainstorm",
-          "meta": "Door verschillende brainstormtechnieken toe te passen, gingen we op zoek naar begrippen <br>en elementen die ons inspireerden. Hieruit konden we starten met een eerste conceptvorming."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "timeout": 5,
-            "slides": [
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/7-2000x1375-10.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "center",
-                "showTitle": false,
-                "title": "IMAGE SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/8-2000x1400-18.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "BACKGROUND VIDEO",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/4-2000x1375-12.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/5-2000x1375-25.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/6-2000x1374-42.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/2-2000x1375-98.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/1-2000x1375-40.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#cccccc",
-            "showBullets": true
-          },
-          "_anchor": "slider3-38",
-          "articleLayout": false
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-34",
-          "_params": {
-            "bgColor": "#c1c1c1",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "arrow-prev",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "color": "#303030"
-            },
-            "STRONG": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts1-35",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "arrow-prev",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "active": true
-            }
-          },
-          "text1": "<strong>UAntwerpen</strong><br>Trajectschijf 3<br>Module 10<br>Casestudie Multidisciplinariteit<br>12/01/2017",
-          "text2": "<strong>Groep5</strong><br>Hannah Van Rompaey<br>Pieternel Van Steenbrugge<br>Yasmine De Maeyer<br>An Frijters",
-          "text3": "<strong>Contact</strong>hannah.vanrompaey@student.uantwerpen.be<br>pieternel.vansteenbrugge@student.uantwerpen.be<br>yasmine.demaeyer@student.uantwerpen.be<br>an.frijters@student.uantwerpen.be<br>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "color": "#303030"
-            }
-          },
-          "_anchor": "footer1-36",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 Groep 5."
-        }
-      ]
-    },
     "inspiratiebronnen2.html": {
       "settings": {
         "order": 4
@@ -3795,7 +3458,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -3822,7 +3485,7 @@
             "bgColor": "#cccccc",
             "showMeta": true
           },
-          "title": "Inspiratiebronnen",
+          "title": "INSPIRATIEBRONNEN",
           "meta": "De volgende kunstenaars uit een andere discipline inspireerden<br>ons en gaven ons een eerste aanzet voor de ontwerpfase."
         },
         {
@@ -3861,7 +3524,23 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/inspiratie-ivan-sikic-600x600-15.jpg",
+              "src": "@PROJECT_PATH@/assets/images/insp-jefgeys-600x600-91.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "jefgeys.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "<a href=\"jefgeys.html\" class=\"text-black\">Jef Geys</a>",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/inspiratie-ivan-sikic-600x600-99.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3871,13 +3550,13 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "Bootstrap 4",
-          "subtitle1": "<a href=\"ivánsikic.html\" class=\"text-black\">Iván Sikic</a>",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
+          "title2": "Responsive",
+          "subtitle2": "<p><a href=\"ivánsikic.html\" class=\"text-black\">Iván Sikic</a><a href=\"jankersschot.html\" class=\"text-black\"></a></p>",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/inspiratie-kersschot3-600x600-28.jpg",
+              "src": "@PROJECT_PATH@/assets/images/inspiratie-kersschot3-600x600-30.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3887,13 +3566,13 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Responsive",
-          "subtitle2": "<a href=\"jankersschot.html\" class=\"text-black\">Jan Kersschot</a>",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
+          "title3": "Web Fonts",
+          "subtitle3": "<p><a href=\"jankersschot.html\" class=\"text-black\">Jan Kersschot</a><a href=\"stephanvanfleteren.html\" class=\"text-black\"></a></p>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/inspiratie-stephan-vanfleteren-600x600-13.jpg",
+              "src": "@PROJECT_PATH@/assets/images/inspiratie-stephan-vanfleteren-600x600-68.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3903,13 +3582,13 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Web Fonts",
-          "subtitle3": "<a href=\"stephanvanfleteren.html\" class=\"text-black\">Stephan Vanfleteren</a>",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
+          "title4": "Unlimited Sites",
+          "subtitle4": "<a href=\"stephanvanfleteren.html\" class=\"text-black\">Stephan Vanfleteren</a>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/inspiratie-gavin-worth-600x600-47.jpg",
+              "src": "@PROJECT_PATH@/assets/images/inspiratie-gavin-worth-600x600-77.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3919,24 +3598,8 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Unlimited Sites",
-          "subtitle4": "<a href=\"gavinworth.html\" class=\"text-black\">Gavin Worth</a>",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/insp-berlinde-de-bruyckere-600x600-42.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "berlindedebruyckere.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
           "title5": "Trendy Website Blocks",
-          "subtitle5": "<a href=\"berlindedebruyckere.html\" class=\"text-black\">Berlinde De Bruyckere</a>",
+          "subtitle5": "<a href=\"gavinworth.html\" class=\"text-black\">Gavin Worth</a>",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
@@ -3988,7 +3651,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/insp-joseph-beuys-600x600-37.jpg",
+              "src": "@PROJECT_PATH@/assets/images/insp-berlinde-de-bruyckere-600x600-11.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3999,12 +3662,12 @@
             }
           },
           "title1": "Bootstrap 4",
-          "subtitle1": "<a href=\"berlindedebruyckere.html\" class=\"text-black\">J</a>oseph Beuys",
+          "subtitle1": "<a href=\"berlindedebruyckere.html\" class=\"text-black\">Berlinde De Bruyckere</a>",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/insp-daniel-spoerri-600x600-70.jpg",
+              "src": "@PROJECT_PATH@/assets/images/insp-joseph-beuys-600x600-96.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4015,12 +3678,12 @@
             }
           },
           "title2": "Responsive",
-          "subtitle2": "Daniel Spoerri",
+          "subtitle2": "Joseph Beuys",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/insp-axelvervoordt-600x600-70.jpg",
+              "src": "@PROJECT_PATH@/assets/images/insp-daniel-spoerri-600x600-59.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4031,12 +3694,12 @@
             }
           },
           "title3": "Web Fonts",
-          "subtitle3": "Axel Vervoordt",
+          "subtitle3": "Daniel Spoerri",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/insp-anndemeulemeester-600x600-81.jpg",
+              "src": "@PROJECT_PATH@/assets/images/insp-axelvervoordt-600x600-75.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4052,7 +3715,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/insp-hansopdebeeck-600x600-56.jpg",
+              "src": "@PROJECT_PATH@/assets/images/insp-anndemeulemeester-600x600-67.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4063,7 +3726,7 @@
             }
           },
           "title5": "Trendy Website Blocks",
-          "subtitle5": "Hans Op de Beeck",
+          "subtitle5": "Ann Demeulemeester",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
@@ -4086,7 +3749,7 @@
           "_name": "features3",
           "_anchor": "features3-3z",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -4109,7 +3772,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/insp-hargreavesandlevin-600x600-63.jpg",
+              "src": "@PROJECT_PATH@/assets/images/insp-hansopdebeeck-600x600-84.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4120,12 +3783,12 @@
             }
           },
           "title1": "Bootstrap 4",
-          "subtitle1": "Hargreaves + Levin",
+          "subtitle1": "Hans Op de Beeck",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/blank-600x600-37.jpg",
+              "src": "@PROJECT_PATH@/assets/images/insp-hargreavesandlevin-600x600-81.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4136,7 +3799,7 @@
             }
           },
           "title2": "Responsive",
-          "subtitle2": "Inspiratiebron",
+          "subtitle2": "Hargreaves + Levin",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -4281,7 +3944,7 @@
     },
     "stephanvanfleteren.html": {
       "settings": {
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -4338,7 +4001,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-3i",
+          "_anchor": "ext_menu-34",
           "_params": {
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
@@ -4370,7 +4033,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -4623,7 +4286,7 @@
     },
     "berlindedebruyckere.html": {
       "settings": {
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -4680,7 +4343,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-3s",
+          "_anchor": "ext_menu-34",
           "_params": {
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
@@ -4712,7 +4375,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -4951,7 +4614,7 @@
     },
     "page3.html": {
       "settings": {
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -5008,7 +4671,7 @@
             }
           },
           "_name": "ext.menu",
-          "_anchor": "ext_menu-41",
+          "_anchor": "ext_menu-34",
           "_params": {
             "bgColor": "#c1c1c1",
             "fontSize": 0.75,
@@ -5040,7 +4703,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"deopdracht.html\">DE OPDRACHT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">VOORONDERZOEK</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"vooronderzoek.html\">BRAINSTORM</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">INSPIRATIEBRONNEN</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ontwerpproces.html\">ONTWERPPROCES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"eindproduct.html\">HET EINDPRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -5283,6 +4946,597 @@
             }
           },
           "_anchor": "footer1-4b",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Groep 5."
+        }
+      ]
+    },
+    "brainstorm2.html": {
+      "settings": {
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#000000"
+            },
+            "SMALL": {
+              "color": "#585e5e",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-37",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "0",
+            "bgColor": "#cccccc",
+            "showMeta": true
+          },
+          "title": "BRAINSTORM",
+          "meta": "Door verschillende brainstormtechnieken toe te passen, gingen we op zoek naar begrippen <br>en elementen die ons inspireerden. Hieruit konden we starten met een eerste conceptvorming."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider3",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "timeout": 5,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1375-10.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1400-18.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1375-12.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1375-25.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1374-42.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1375-98.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1375-40.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "fullScreen": false,
+            "bgColor": "#cccccc",
+            "showBullets": true
+          },
+          "_anchor": "slider3-38",
+          "articleLayout": false
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-4f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<p>De eerste week van deze casestudie was een soort verkenningsweek. Er werden ons lezingen aangeboden met onderwerpen uit allerlei verschillende disciplines en we brachten een bezoek aan het Museum van Hedendaagse Kunst in Antwerpen. Om een eerste aanknopingspunt te vinden voor ons ontwerp, deden we een brainstorm naar wat wij verstonden onder 'multidisciplinariteit', en welke thema's hierbij aan bod konden komen. Al gauw werden we herinnerd aan het werk van <a href=\"jefgeys.html\" class=\"text-danger\" target=\"_blank\">Jef Geys</a> in het M HKA. [ UITLEG INSPIRATIE JEF GEYS ]</p><p><br></p><p>[ UITLEG IVAN SIKIC ]</p><p>[ UITLEG JAN KERSSCHOT EN STEPHAN VANFLETEREN ]</p>"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#a8a8a8"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#b9b9b9!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#c1c1c1"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-34",
+          "_params": {
+            "bgColor": "#c1c1c1",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "arrow-prev",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#303030"
+            },
+            "STRONG": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-35",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "arrow-prev",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>UAntwerpen</strong><br>Trajectschijf 3<br>Module 10<br>Casestudie Multidisciplinariteit<br>12/01/2017",
+          "text2": "<strong>Groep5</strong><br>Hannah Van Rompaey<br>Pieternel Van Steenbrugge<br>Yasmine De Maeyer<br>An Frijters",
+          "text3": "<strong>Contact</strong>hannah.vanrompaey@student.uantwerpen.be<br>pieternel.vansteenbrugge@student.uantwerpen.be<br>yasmine.demaeyer@student.uantwerpen.be<br>an.frijters@student.uantwerpen.be<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#303030"
+            }
+          },
+          "_anchor": "footer1-36",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Groep 5."
+        }
+      ]
+    },
+    "jefgeys.html": {
+      "settings": {
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#a8a8a8"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#b9b9b9!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#c1c1c1"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#000000!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4g",
+          "_params": {
+            "bgColor": "#c1c1c1",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "arrow-prev",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "active": true
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\" aria-expanded=\"false\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Output</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">OVER ONS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".lead": {
+              "color": "#ffffff",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-4h",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/header-jefgeys-2000x501-0.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "JEF GEYS",
+          "text": "FOTOGRAAF",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H1": {
+              "font-size": "30px"
+            }
+          },
+          "_anchor": "content1-4i",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#cccccc"
+          },
+          "text": "<h1>Alle zwart-wit foto's tot 1998</h1>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "18px"
+            },
+            "DIV": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "18px"
+            }
+          },
+          "_anchor": "content1-4j",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#cccccc"
+          },
+          "text": "<p></p><p>[ WAT DOET HIJ + WAAROM WAS HIJ ONZE EERSTE INSPIRATIEBRON ]</p><p></p><p></p><p></p><p></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "text-align": "left",
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#303030"
+            },
+            "STRONG": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "contacts1-4n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#c1c1c1",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "arrow-prev",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>UAntwerpen</strong><br>Trajectschijf 3<br>Module 10<br>Casestudie Multidisciplinariteit<br>12/01/2017",
+          "text2": "<strong>Groep5</strong><br>Hannah Van Rompaey<br>Pieternel Van Steenbrugge<br>Yasmine De Maeyer<br>An Frijters",
+          "text3": "<strong>Contact</strong>hannah.vanrompaey@student.uantwerpen.be<br>pieternel.vansteenbrugge@student.uantwerpen.be<br>yasmine.demaeyer@student.uantwerpen.be<br>an.frijters@student.uantwerpen.be<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Titillium Web', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "color": "#303030"
+            }
+          },
+          "_anchor": "footer1-4o",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
