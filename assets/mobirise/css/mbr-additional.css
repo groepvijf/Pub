@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 
 
 
@@ -687,6 +688,7 @@ h6,
 
 
 
+
 #ext_menu-34 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -765,6 +767,9 @@ h6,
 #content1-m DIV {
   font-family: 'Titillium Web', sans-serif;
   font-size: 18px;
+}
+#content1-m H4 {
+  font-family: 'Lora', serif;
 }
 #content1-33 P {
   font-size: 18px;

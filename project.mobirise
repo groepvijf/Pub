@@ -26,7 +26,11 @@
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "publishType": "local",
-    "publishPath": "file:///C:/Users/an/Desktop/mobirise%20lokaal"
+    "publishPath": "file:///C:/Users/an/Desktop/mobirise%20lokaal",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-88958994-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "deopdracht.html": {
@@ -150,7 +154,7 @@
             "bgColor": "#cccccc",
             "showMeta": true
           },
-          "title": "DE OPDRACHT",
+          "title": "<span style=\"font-weight: normal;\">DE OPDRACHT</span>",
           "meta": "In deze casestudie ontwierpen we vanuit een multidisciplinaire <br>invalshoek een prototype van een contextueel object."
         },
         {
@@ -423,7 +427,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "GRENS",
+          "title": "<span style=\"font-weight: normal;\">GRENS</span>",
           "text": "In dit online portfolio vindt u ons volledig ontwerpproces van deze casestudie. Elke tussenstap wordt weergegeven, van de allereerste brainstorm tot het eindproduct. Op deze manier kan u ons proces en redenering opvolgen.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -846,7 +850,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "IVÁN SIKIC",
+          "title": "<span style=\"font-weight: normal;\">IVÁN SIKIC</span>",
           "text": "<p>INSTALLATIEKUNSTENAAR</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -866,7 +870,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "text": "<h1>99 ballonnen en één gouden baksteen als symbool voor de kloof tussen arm en rijk.</h1>"
+          "text": "<h1><span style=\"font-weight: normal;\">99 ballonnen en één gouden baksteen als symbool voor de kloof tussen arm en rijk.</span></h1>"
         },
         {
           "_tags": [
@@ -883,6 +887,10 @@
               "font-family": "'Titillium Web', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
               "font-size": "18px"
+            },
+            "H4": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_anchor": "content1-m",
@@ -1999,7 +2007,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "JAN KERSSCHOT",
+          "title": "<span style=\"font-weight: normal;\">JAN KERSSCHOT</span>",
           "text": "<p>FOTOGRAAF</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -2019,7 +2027,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "text": "<h1>Beyond</h1>"
+          "text": "<h1><span style=\"font-weight: normal;\">Beyond</span></h1>"
         },
         {
           "_tags": [
@@ -2884,7 +2892,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "FASE 2",
+          "title": "<span style=\"font-weight: normal;\">FASE 2</span>",
           "text": "Eetgewoonten van mensen omzetten in een 3D curve aan de hand van verschillende materialen.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -3475,7 +3483,7 @@
             "bgColor": "#cccccc",
             "showMeta": true
           },
-          "title": "INSPIRATIEBRONNEN",
+          "title": "<span style=\"font-weight: normal;\">INSPIRATIEBRONNEN</span>",
           "meta": "De volgende kunstenaars uit een andere discipline inspireerden<br>ons en gaven ons een eerste aanzet voor de ontwerpfase."
         },
         {
@@ -4059,7 +4067,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "STEPHAN VANFLETEREN",
+          "title": "<span style=\"font-weight: normal;\">STEPHAN VANFLETEREN</span>",
           "text": "<p>FOTOGRAAF</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -4079,7 +4087,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "text": "<h1>Portretreeksen</h1>"
+          "text": "<h1><span style=\"font-weight: normal;\">Portretreeksen</span></h1>"
         },
         {
           "_tags": [
@@ -4401,7 +4409,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "BERLINDE DE BRUYCKERE",
+          "title": "<span style=\"font-weight: normal;\">BERLINDE DE BRUYCKERE</span>",
           "text": "<p>INSTALLATIEKUNSTENARES</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -4982,7 +4990,7 @@
             "bgColor": "#cccccc",
             "showMeta": true
           },
-          "title": "BRAINSTORM",
+          "title": "<span style=\"font-weight: normal;\">BRAINSTORM</span>",
           "meta": "Door verschillende brainstormtechnieken toe te passen, gingen we op zoek naar begrippen <br>en elementen die ons inspireerden. Hieruit konden we starten met een eerste conceptvorming."
         },
         {
