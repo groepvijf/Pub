@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudie Multidiscliplinariteit",
-    "currentPage": "ontwerpproces.html",
+    "currentPage": "fase4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -7878,7 +7878,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img005-2000x1376-52.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img003-2000x1376-51.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
