@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudie Multidiscliplinariteit",
-    "currentPage": "fase3.html",
+    "currentPage": "fase2.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.0",
-    "uniqCompNum": 238,
+    "uniqCompNum": 244,
     "versionPublish": "3.9.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -2259,19 +2259,18 @@
             "Theme"
           ],
           "_name": "content1",
-          "_styles": {
-            "DIV": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
-            }
-          },
-          "_anchor": "content1-1y",
+          "_anchor": "content1-6o",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text": "<p>De voornamelijkste brainstorms die we deden, gingen over maatschappelijke thema’s, multidisciplinariteit en over ons idee over het object, zoals de materialiteit, kleur en vorm. Hieruit hebben we besloten dat de kloof tussen arm en rijk een zeer interessant maatschappelijk thema is, maar dat dit tegelijkertijd ook één van de moeilijkste elementen is om te onderzoeken. Daarom gingen we ons focussen op één element dat armen en rijken gemeenschappelijk of verschillend hebben. Hierbij dachten we aan, lichaamsdelen, rituelen en koopgedrag. </p><p><br></p><p>Uiteindelijk gingen we het koopgedrag van mensen onderzoeken. Hierbij namen we foto’s van aankopen op de rolband van de kassa. We ontdekten verschillende soorten koopgedrag: snelle en trage, noodzakelijke en luxueuze en kleine en grote aankopen. Deze foto’s zijn we gaan vertalen naar 2D figuren. We lieten ons hierbij inspireren door <a href=\"gavinworth.html\" target=\"_blank\" class=\"text-white\">Gavin Worth</a>, een beeldend kunstenaar die 3D objecten omzet in contourtekeningen uit staal. We trokken lijnen rond de verschillende producten om zo een abstract overzicht te krijgen van de verschillende aankopen. Nadat we deze figuren overtrokken hadden, besloten we dat het koopgedrag nog steeds relatief weinig meerwaarde geeft aan het onderzoek tussen arm en rijk. Hoewel dit maatschappelijke thema zeer interessant is, hebben we toch besloten om het een beetje los te laten. Om dit onderzoek tot een goed einde te brengen, hadden we meer tijd nodig.</p>"
+          "text": "Om het verschil in de behoefte van eten te onderzoeken, besloten we te kijken naar hun koopgedrag. We gingen er immers van uit dat arme mensen minder en andere producten zouden kopen dan rijken. Dit hebben we gedaan door foto’s te nemen van aankopen op de rolband van de kassa. We ontdekten verschillende soorten koopgedrag: snel of traag winkelen, veel of weinig kopen en enkel noodzakelijke of ook luxueuze producten kopen. De beelden die uit dit onderzoek kwamen, hebben we vertaald naar 2D figuren. We lieten ons hierbij inspireren door <a href=\"gavinworth.html\" target=\"_blank\" class=\"text-danger\">Gavin Worth</a>, een beeldend kunstenaar die 3D objecten omzet in contourtekeningen uit staal. We trokken lijnen rond de verschillende producten om zo een abstract overzicht te krijgen van de verschillende aankopen. We hoopten zo een gelijkenis te vinden tussen de verschillende contouren, om dit later te kunnen vertalen in een abstract object.&nbsp;",
+          "_styles": {
+            "DIV": {
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_inherit": "gallery1",
@@ -2281,7 +2280,7 @@
           "_name": "gallery2",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 4,
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Awesome",
@@ -2355,6 +2354,42 @@
           "_anchor": "gallery2-1z",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6n",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "Één duidelijke trend vinden in deze contouren was echter moeilijker dan we dachten. Het is niet omdat iemand weinig koopt, dat hij daarom ook arm is. Het koopgedrag gaf dus relatief weinig meerwaarde aan ons onderzoek tussen arm en rijk. Om op deze manier een éénduidig resultaat te bekomen, hadden we meer tijd nodig om een uitgebreid onderzoek te kunnen voeren. We kozen er daarom voor om het koopgedrag achterwege te laten, en de basisbehoefte 'eten' op een andere manier te onderzoeken.",
+          "_styles": {
+            "DIV": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<a href=\"fase2.html\">Fase 2 &gt;</a>",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
@@ -2579,7 +2614,8 @@
           "_styles": {
             "P": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "18px"
             },
             "DIV": {
               "font-family": "'Titillium Web', sans-serif",
@@ -2592,7 +2628,7 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text": "Het idee van figuren ‘overtrekken’ vonden de docenten creatief. Met dit idee moesten we zeker verder experimenteren, alleen moesten we dit toepassen op vormen en objecten. De kloof tussen arm en rijk en de productaankopen bleven een inspiratie bij de volgende stappen. We gingen experimenteren met het eetgerei van armen en rijken. We probeerden deze na te bootsen volgens onze eigen gedachten en ideëen. Vervolgens overtrokken we de spullen met aluminiumfolie. Dit bracht ons naar driedimensionale vormen van het eetservies, maar ook andere vormen en vormen die we terug brachten naar 2D. Dit materiaal had al een positief effect om de vormen aan te houden, maar we gingen op zoek naar andere, en betere materialen."
+          "text": "<p><br></p><p>We gooiden ons onderzoek over een andere boeg. In plaats van het koopgedrag te visualiseren, gingen we aan de slag met het eetgerei van armen en rijken. Desondanks iedereen de behoefte heeft aan eten, voeren we deze activiteit op een totaal verschillende manier uit. Wat we wel meenamen vanuit de vorige fase, was het idee om contouren te gebruiken. We gingen hier verder mee experimenteren, alleen bleven we niet langer bij 2D tekeningen. We pasten het principe toe op vormen en objecten, namelijk het eetgerei. De opstelling van het servies gebeurde volledig volgens onze eigen gedachten en denkbeelden. Maar hoe kunnen we een 3D contour van een servies weergeven? Al gauw kwamen we op het idee van vacuüm trekken, maar dit was moeilijk haalbaar. We deden daarom een reeks van materiaaltesten om te ontdekken welke materialen zulke vormen wel of niet goed kunnen aannemen. Bij de materiaalkeuze hielden we het werk van <a href=\"ivánsikic.html\" target=\"_blank\" class=\"text-danger\">Iván Sikic</a> in ons achterhoofd. De materialen die we testten hadden allemaal een rijkelijke of arme uitstraling.</p><p><br></p><p>De eerste test die we deden was met aluminiumfolie. We pakten het servies ermee in en haalden het er vervolgens terug uit. Hierdoor verkregen we een driedimensionale contour van een gedekte tafel. Later duwden we dit terug tot een 2D vorm.&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -2689,7 +2725,8 @@
             },
             "DIV": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "18px"
             }
           },
           "_anchor": "content1-27",
@@ -2698,7 +2735,7 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text": "Omdat we tijdens een begeleiding spraken over het vacuüm trekken van objecten, zochten we naar alternatieven van materialen. Hierbij dachten we aan plastieken zakken, rekfolie, kunststof en huishoudfolie. We experimenteerden eerst met huishoudfolie. Het bestek van wat volgens ons het verschil tussen arm en rijk aangaf, pakten we in met de folie. Arm en rijk zijn twee tegenovergestelden van elkaar, maar hebben tegelijkertijd ook dingen gemeenschappelijk. De folie zou dan duiden op het gemeenschappelijke tussen arm en rijk. We zochten naar contrasten tussen de twee verschillende ‘pakjes’ van folie. Dit deden we aan de hand van verschillende, kenmerkende materialen, maar ook licht en schaduw. Hierbij ontdekten we dat het licht, met de gedetailleerde schaduw een meerwaarde gaf aan het object. We besloten dat licht en schaduw essentieel is bij kunst.&nbsp;<p>.</p>"
+          "text": "Het voordeel van de aluminiumfolie was dat deze de details van het servies goed weergeeft, het nadeel is echter dat het een zeer poreus materiaal is. We gingen dus op zoek naar een steviger materiaal. Omdat het idee van vacuüm trekken nog steeds in ons hoofd zinderde, gingen we op zoek naar een materiaal dat ook doorzichtig is en een vorm kan aannemen. Zo kwamen we ook uit bij huishoudfolie. We maakten een pakket van arm en rijk bestek en pakten dit beiden in met huishoudfolie. Hoewel de benodigdheden van servies zo verschillend zijn bij arm en rijk, hebben beide groepen er wel nood aan. De folie zou wijzen op de gemeenschappelijke nood aan eten, de inhoud ervan op de verschillende behoeften die in dat pakket moeten zitten. De huishoudfolie gaf echter niet voldoende contour van de 3D objecten, maar we hebben er niet niets mee gedaan. We zochten naar contrasten tussen de twee verschillende pakketten aan de hand van licht en schaduw. De folie gaf misschien geen gedetailleerde weergave, maar wel een interessante schaduw.<p>.</p>"
         },
         {
           "_inherit": "gallery1",
@@ -2762,9 +2799,9 @@
               },
               {
                 "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=3uzmfRYs1VI",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2016-12-16-23-30-04.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/dsc-3998-2000x1333-27-2000x1333-16.jpg",
                 "image": "@PROJECT_PATH@/assets/images/dsc-3998-2000x1333-27.jpg",
                 "caption": "Type caption here",
@@ -2784,38 +2821,6 @@
           "allItem": "All"
         },
         {
-          "_inherit": "header1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_anchor": "header4-2l",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/3uzmfRYs1VI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "right",
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "VIDEO BACKGROUND",
-          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -2823,7 +2828,8 @@
           "_styles": {
             "P": {
               "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
+              "font-size": "18px"
             },
             "DIV": {
               "font-family": "'Titillium Web', sans-serif",
@@ -2836,7 +2842,7 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text": "Tijdens het onderzoek vonden we een interessant werk van Joseph Beuys: een piano ingepakt met stof. We keken hierbij enkel naar de lay-out en niet naar het concept. Daarom gingen we experimenteren met textiel. We experimenteerden eerst met kant, zoals dat van een tafellaken. Deze stof mengden we met stijfsel, maakten het passend op het eetservies en lieten het rusten tot dat het helemaal droog en hard was. De gedroogde stof in combinatie met licht en schaduw gaf een meerwaarde aan het object, maar het was nog niet helemaal wat we hadden verwacht, daarom gaan we nu verder experimenteren met tule. We willen werken met een fijnere stof, zodat de details beter zichtbaar zijn en zodat het in combinatie met licht mooier tot zijn recht komt."
+          "text": "<p>Zoals eerder aangegeven voldeed de aluminium- en huishoudfolie niet aan de eisen om een 3D contour mee op te bouwen. We vonden tijdens het onderzoek een interessante kunstenaar: <a href=\"josephbeuys.html\" target=\"_blank\" class=\"text-danger\">Joseph Beuys</a>. Hij pakt allerlei objecten op een zeer sobere manier in met textiel. Veel details gaan verloren, maar het object blijft wel herkenbaar. We maakten al snel een link met ons eigen ontwerp en begonnen te experimenteren met textiel en stijfsel. We kozen voor een kanten tafellaken dat luxe uitstraalt, en ensceneerden een rijkelijk gedekte tafel. We mengden het textiel met het stijfsel, pasten het aan aan de contouren van het servies en lieten het een nacht rusten.&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -2960,6 +2966,42 @@
           "_anchor": "gallery2-2f",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "De geharde stof bleef mooi in zijn vorm staan toen we het servies eronder uit haalden. Ook hier experimenteerden we met licht, door een lichtbron onder het kanten tafellaken te plaatsen. Dit gaf een speciaal effect, het was een stap in de goede richting. We opteerden echter wel om later voor een fijnere stof te kiezen, zodat we de details beter kunnen weergeven. Zo denken we onder andere aan tule.",
+          "_styles": {
+            "DIV": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc"
+          },
+          "text": "<a href=\"fase3.html\">Fase 3</a> &gt;",
+          "_styles": {
+            "DIV": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_tags": [
@@ -4330,7 +4372,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/7-2000x1375-10.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -4342,20 +4384,6 @@
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/8-2000x1400-18.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "left",
-                "showTitle": false,
-                "title": "BACKGROUND VIDEO",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
                 "active": false,
@@ -4414,7 +4442,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/1-2000x1375-40.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -4443,10 +4471,33 @@
           "_anchor": "content1-4f",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "text": "<p>De eerste week van deze casestudie was een soort verkenningsweek. Er werden ons lezingen aangeboden met onderwerpen uit allerlei verschillende disciplines en we brachten een bezoek aan het Museum van Hedendaagse Kunst in Antwerpen. Om een eerste aanknopingspunt te vinden voor ons ontwerp, deden we een brainstorm naar wat wij verstonden onder 'multidisciplinariteit', en welke thema's hierbij aan bod konden komen. Al gauw werden we herinnerd aan het werk van <a href=\"jefgeys.html\" class=\"text-danger\" target=\"_blank\">Jef Geys</a> in het M HKA. [ UITLEG INSPIRATIE JEF GEYS ]</p><p><br></p><p>[ UITLEG IVAN SIKIC ]</p><p>[ UITLEG JAN KERSSCHOT EN STEPHAN VANFLETEREN ]</p>"
+          "text": "<p>De eerste week van deze casestudie was een soort verkenningsweek. Er werden ons lezingen aangeboden met onderwerpen uit allerlei verschillende disciplines en we brachten een bezoek aan het Museum van Hedendaagse Kunst in Antwerpen. Om een eerste aanknopingspunt te vinden voor ons ontwerp, deden we een brainstorm naar wat wij verstonden onder 'multidisciplinariteit', en welke thema's hierbij aan bod konden komen. Al gauw werden we herinnerd aan het werk van ...&nbsp;in het M HKA. [ UITLEG INSPIRATIE ]</p><p><br></p><p>Door het werk van ... in combinatie met onze brainstorms, werd het &nbsp;duidelijk dat we ons bezig wilden houden met een maatschappelijk thema, meer bepaald de kloof tussen arm en rijk. Enerzijds is dit een zeer boeiend thema, maar anderzijds ook heel gevoelig en poreus. We brainstormden en noteerden adjectieven die we koppelden aan de woorden 'arm' en 'rijk'. Het nadeel was dat we hierdoor alle armen en rijken over dezelfde kam scheerden en onze vooroordelen naar boven kwamen. Als we met dit thema verder wilden gaan, moesten we er zeker van zijn dat we niet cliché gingen denken. Het moest een puur object worden dat de toeschouwer aan het nadenken zet en het contrast tussen beide leefwerelden weergeeft. Dit is echter gemakkelijker gezegd dan gedaan, dus gingen we op zoek naar kunstenaars die zich reeds in dit onderwerp hadden verdiept. Hoe gaan zij met dit fragiele onderwerp om, zonder dat het hierbij cliché wordt? We botsten hierbij op de kunstenaar <a href=\"ivánsikic.html\" target=\"_blank\" class=\"text-danger\">Iván Sikic</a>, die de kloof tussen arm en rijk weergeeft door herkenbare materialen te gebruiken. Hierdoor wordt zijn werk zeer tastbaar en komt zijn boodschap over bij een groot publiek.&nbsp;</p><p><br></p><p>Adjectieven op armen en rijken plakken, was dus niet de juiste strategie om een eerste aanknopingspunt te vinden. We gingen dus niet langer op zoek naar wat ons verschillend maakt, maar wat hen zou kunnen verbinden. Onze eerste gedachten gingen naar het menselijk lichaam: iedereen heeft het en toch is het bij iedereen zo verschillend. Een deel van de verschillen zijn aangeboren, een ander deel hangt er vanaf hoe je er mee om gaat. We dachten al snel aan de handen, het gezicht, de neus en de oren. Het zijn vaak maar kleine details, maar het geeft ons vaak zo veel informatie over de persoonlijke achtergrond van een individu. Hierbij dachten we aan twee fotografen, die zich sterk bezig houden met dit thema. <a href=\"stephanvanfleteren.html\" target=\"_blank\" class=\"text-danger\">Stephan Vanfleteren</a> staat bekend om zijn sterke, gedetailleerde portretten. Hij maakt confronterende portretreeksen over verschillende soorten mensen. <a href=\"jankersschot.html\" target=\"_blank\" class=\"text-danger\">Jan Kersschot</a> doet eigenlijk het omgekeerde. Hij zoomt zeer diep in op het menselijk lichaam en stelt slechts op één minuscule menselijke cel scherp. Hierdoor wordt het haast onmogelijk om te zien welk lichaamsdeel hij fotografeerde, laat staan van wat soort persoon. Dit verwijst naar de uniformiteit van het menselijke lichaam, dat zowel arm en rijk gemeenschappelijk hebben.&nbsp;</p><p><br></p><p>We dachten er bijgevolg eerst aan om zelf een fotoreportage te maken. We stelden ons hierbij de vraag hoe we deze beelden dan later konden gebruiken om een object te vormen. We besloten verder te zoeken naar dingen die arm en rijk gemeenschappelijk hebben. Buiten fysieke elementen zijn er ook nog andere gemeenschappelijke factoren, zoals rituelen en behoeften. Ieder mens heeft nood aan eten, maar armen en rijken zullen dit op een zeer verschillende manier doen. Dit was de eerste aanzet voor ons ontwerpproces.</p><p><br></p>",
+          "_styles": {
+            "P": {
+              "font-size": "18px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6m",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#cccccc"
+          },
+          "text": "<p><a href=\"ontwerpproces.html\">Het ontwerpproces </a>&gt;</p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
         },
         {
           "_inherit": "menu",

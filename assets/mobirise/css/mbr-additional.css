@@ -1058,7 +1058,6 @@ h6,
 
 
 
-
 #ext_menu-34 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1127,8 +1126,14 @@ h6,
 #msg-box8-1x .lead P {
   font-family: 'Titillium Web', sans-serif;
 }
-#content1-1y DIV {
-  font-family: 'Titillium Web', sans-serif;
+#content1-6o DIV {
+  font-size: 18px;
+}
+#content1-6n DIV {
+  font-size: 18px;
+}
+#content1-6p DIV {
+  text-align: center;
 }
 #contacts1-1v P {
   text-align: left;
@@ -1228,6 +1233,7 @@ h6,
 }
 #content1-22 P {
   font-family: 'Titillium Web', sans-serif;
+  font-size: 18px;
 }
 #content1-22 DIV {
   font-family: 'Titillium Web', sans-serif;
@@ -1237,12 +1243,20 @@ h6,
 }
 #content1-27 DIV {
   font-family: 'Titillium Web', sans-serif;
+  font-size: 18px;
 }
 #content1-2e P {
   font-family: 'Titillium Web', sans-serif;
+  font-size: 18px;
 }
 #content1-2e DIV {
   font-family: 'Titillium Web', sans-serif;
+}
+#content1-6r DIV {
+  font-size: 18px;
+}
+#content1-6q DIV {
+  text-align: center;
 }
 #contacts1-24 P {
   text-align: left;
@@ -1564,6 +1578,12 @@ h6,
 #header3-37 SMALL {
   color: #585e5e;
   font-family: 'Titillium Web', sans-serif;
+}
+#content1-4f P {
+  font-size: 18px;
+}
+#content1-6m P {
+  text-align: center;
 }
 #ext_menu-34 .hide-buttons .nav-btn {
   display: none !important;
