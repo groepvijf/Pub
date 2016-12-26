@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudie Multidiscliplinariteit",
-    "currentPage": "eindproduct.html",
+    "currentPage": "fase6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -7553,18 +7553,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "content1-88",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text": "<p>&lt; <a href=\"inspiratiebronnen2.html\">Overzicht inspiratiebronnen</a></p>",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          }
+          "text": "<p>&lt; <a href=\"inspiratiebronnen2.html\">Overzicht inspiratiebronnen</a></p>"
         },
         {
           "_tags": [
@@ -9812,7 +9812,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/dsc-4349-2000x1333-54.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc-4606a-2000x3000-81.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
