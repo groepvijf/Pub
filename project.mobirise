@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Casestudie Multidiscliplinariteit",
-    "currentPage": "fase6.html",
+    "currentPage": "eindproduct.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -123,8 +123,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -391,8 +391,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -430,8 +430,8 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<span style=\"font-weight: normal;\">GRENS</span>",
-          "text": "In dit online portfolio vindt u ons volledig ontwerpproces van deze casestudie. Elke tussenstap wordt weergegeven, van de allereerste brainstorm tot het eindproduct. Op deze manier kan u ons&nbsp;proces en redenering opvolgen.",
+          "title": "<span style=\"font-weight: normal;\">VERSUS</span>",
+          "text": "In dit online portfolio vindt u het volledig ontwerpproces van deze casestudie. Elke tussenstap wordt weergegeven, van de allereerste brainstorm tot het eindproduct. Op deze manier kan u het proces en redenering opvolgen.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -603,8 +603,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -645,7 +645,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "text": "<p></p>http://smak.be/nl/nieuws/wirtschaftswerte-van-joseph-beuys-terug-opgesteld-in-smak<p>http://weekend.knack.be/lifestyle/radar/jan-kersschot-toont-handen-op-verfrissende-manier-in-foto-expo/article-normal-469943.html</p><div>http://www.kersschot.com/studioinspiration/</div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">http://ivansikic.com/itsmyparty/</span><br></div><div>http://thecreatorsproject.vice.com/nl/blog/ballonnen-goud-en-punaises-staan-symbool-voor-de-inkomensongelijkheid-op-de-wereld</div><div>http://gavinworth.com/flora.html</div>http://stephanvanfleteren.com/nl<div>http://smak.be/nl/tentoonstelling/5142</div>http://www.kunstbus.nl/kunst/daniel+spoerri.html<p></p><p></p><p></p><p>http://ensembles.mhka.be/items/al-de-zwart-wit-foto-s-tot-1998-all-black-and-white-pictures-until-1998?locale=nl</p>http://www.bulo.com/nl/designers/1-ann-demeulemeester<p><br></p><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><p></p><p></p>"
+          "text": "<p></p>bulo.com (2014). “An Demeulemeester”. Geraadpleegd op 20 december 2016 via http://www.bulo.com/nl/designers/1-ann-demeulemeester<div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">ensembles.mhka.be (2016). “Al de zwart wit foto’s tot 1998”. Geraadpleegd op 16 november 2016 via http://ensembles.mhka.be/items/al-de-zwart-wit-foto-s-tot-1998-all-black-and-white-pictures-until-1998?locale=nl</span><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">gavinworth.com (2016). “Flora”. Geraadpleegd op 6 december 2016 via http://gavinworth.com/flora.html&nbsp;</span><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">ivansikic.com (2015). “It’s my party”. Geraadpleegd op 29 november 2016 via http://ivansikic.com/itsmyparty/</span><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">kersschot.com (2016). “Studio inspiration”. Geraadpleegd op 2 december 2016 via http://www.kersschot.com/studioinspiration/</span><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">kunstbus.nl (2015). “Daniel Spoerri”. Geraadpleegd op 19 december 2016 via http://www.kunstbus.nl/kunst/daniel+spoerri.html</span><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">smak.be (2016). “Joseph Beuys”. Geraadpleegd op 21 november 2016 via&nbsp;</span><span style=\"font-size: 1.07rem; line-height: 1.5;\">http://smak.be/nl/nieuws/wirtschaftswerte-van-joseph-beuys-terug-opgesteld-in-smak</span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">smak.be (2016). “Tentoonstellingen”. Geraadpleegd op 21 november 2016 via http://smak.be/nl/tentoonstelling/5142</span><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">stephanvanfleteren.com (2016). “Stephan Van Fleteren”. Geraadpleegd op 3 december 2016 via http://stephanvanfleteren.com/nl</span><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">thecreatorsproject.vice.com (2014). “Blog Ivan Sikic”. Geraadpleegd op 29 november 2016 via http://thecreatorsproject.vice.com/nl/blog/ballonnen-goud-en-punaises-staan-symbool-voor-de-inkomensongelijkheid-op-de-wereld</span><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\">weekend.knack.be (2016). “Jan Kersschot”. Geraadpleegd op 3 december 2016 via http://weekend.knack.be/lifestyle/radar/jan-kersschot-toont-handen-op-verfrissende-manier-in-foto-expo/article-normal-469943.html</span><br></div><div><br><p><br></p><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><div><br></div><p></p><p></p></div>"
         },
         {
           "_tags": [
@@ -816,8 +816,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -1234,8 +1234,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -1656,8 +1656,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -1735,7 +1735,7 @@
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
-          "text": "Tijdens zijn observatie van het menselijk lichaam deelde Jan Kersschot een hele nieuwe wereld door bijna 400 mensen van zeer dichtbij te fotograferen.&nbsp;<span style=\"font-size: 18px; line-height: 1.5;\">Na het fotograferen van handen in 'Handscapes', toonde zijn tweede serie' Skinscapes' en zijn derde reeks 'Eyescapes' details van huid en ogen. Ze waren een duidelijke voortzetting van zijn typische stijl: close-ups in zwart-wit van kleine delen van het menselijk lichaam, weergegeven zonder digitale verbetering of manipulatie. Hij wil geen nieuwe werkelijkheid creëren maar de realiteit tonen zoals ze is.&nbsp;</span><div>Deze serene en toch sprekende beelden geven de rijkdom van menselijk weefsel weer in de vorm van ongeziene landschappen. De beperkte scherptediepte – slechts een kleine lijn of zone van het landschap is werkelijk scherp – maakt het hem mogelijk om precies te tonen welk gebied in het vizier moet komen. Op deze manier kun je getuige zijn van de subtiele balans tussen scherp en onscherp, tussen het zichtbare en het onzichtbare.</div><div><br></div><div>De vierde reeks ‘Beyond’ toont zeer kleine fragmenten van menselijk weefsel. De foto’s verwijzen naar het universele én het diverse in de mens.  In het dagelijks leven focussen we ons meestal op de verschillen tussen verschillende personen of groepen, maar in het intiemste van ons lichaam zijn we allemaal gelijk. Anatomisch zijn wij allemaal op dezelfde manier opgebouwd – bloedvaten, botten, spieren, zenuwbanen, enzovoort – en toch zijn er bij al deze miljarden mensen nooit twee dezelfde handen of dezelfde ogen gevonden.<br><div><br></div><div>Jan Kersschot inspireerde ons sterk omdat hij door zijn gedetailleerde foto's juist arm en rijk gelijk stelt. Hij belicht in zijn werk niet dat wat hen verschillend maakt, maar dat wat we allen gemeenschappelijk hebben: een lichaam. Zijn fascinatie voor de huid en dat wat er achter zit, leidde tot een boeiende reeks foto's waar huid en ogen universeel worden. Door een beperkte scherptediepte te gebruiken in zijn foto's, zorgt Kersschot ervoor dat het haast onmogelijk is om af te leiden wat voor persoon het is. Arm of rijk, christen of moslim, we delen allen hetzelfde lichaam. Deze gemeenschappelijkheid was een eerste vertrekpunt voor ons ontwerpproces. We gingen verder op zoek naar wat zowel armen als rijken gemeenschappelijk hebben. Hierbij bleven we niet enkel bij fysieke aspecten, maar dachten we ook aan behoeften en rituelen.</div></div>"
+          "text": "Tijdens zijn observatie van het menselijk lichaam deelde Jan Kersschot een hele nieuwe wereld door bijna 400 mensen van zeer dichtbij te fotograferen.&nbsp;<span style=\"font-size: 18px; line-height: 1.5;\">Na het fotograferen van handen in 'Handscapes', toonde zijn tweede serie' Skinscapes' en zijn derde reeks 'Eyescapes' details van huid en ogen. Ze waren een duidelijke voortzetting van zijn typische stijl: close-ups in zwart-wit van kleine delen van het menselijk lichaam, weergegeven zonder digitale verbetering of manipulatie. Hij wil geen nieuwe werkelijkheid creëren maar de realiteit tonen zoals ze is.&nbsp;</span><div>Deze serene en toch sprekende beelden geven de rijkdom van menselijk weefsel weer in de vorm van ongeziene landschappen. De beperkte scherptediepte – slechts een kleine lijn of zone van het landschap is werkelijk scherp – maakt het hem mogelijk om precies te tonen welk gebied in het vizier moet komen. Op deze manier kun je getuige zijn van de subtiele balans tussen scherp en onscherp, tussen het zichtbare en het onzichtbare.</div><div><br></div><div>De vierde reeks ‘Beyond’ toont zeer kleine fragmenten van menselijk weefsel. De foto’s verwijzen naar het universele én het diverse in de mens.  In het dagelijks leven focussen we ons meestal op de verschillen tussen verschillende personen of groepen, maar in het intiemste van ons lichaam zijn we allemaal gelijk. Anatomisch zijn wij allemaal op dezelfde manier opgebouwd – bloedvaten, botten, spieren, zenuwbanen, enzovoort – en toch zijn er bij al deze miljarden mensen nooit twee dezelfde handen of dezelfde ogen gevonden.<br><div><br></div><div>Jan Kersschot inspireerde ons sterk omdat hij door zijn gedetailleerde foto's juist arm en rijk gelijk stelt. Hij belicht in zijn werk niet dat wat ons verschillend maakt, maar dat wat we allen gemeenschappelijk hebben: een lichaam. Zijn fascinatie voor de huid en dat wat er achter zit, leidde tot een boeiende reeks foto's waar huid en ogen universeel worden. Door een beperkte scherptediepte te gebruiken in zijn foto's, zorgt Kersschot ervoor dat het haast onmogelijk is om af te leiden wat voor persoon het is. Arm of rijk, christen of moslim, we delen allen hetzelfde lichaam. Deze gemeenschappelijkheid was een eerste vertrekpunt voor ons ontwerpproces. We gingen verder op zoek naar wat zowel armen als rijken gemeenschappelijk hebben. Hierbij bleven we niet enkel bij fysieke aspecten, maar dachten we ook aan behoeften en rituelen.</div></div>"
         },
         {
           "_tags": [
@@ -2027,8 +2027,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -2288,8 +2288,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -2446,7 +2446,7 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text": "Één duidelijke trend vinden in deze contouren was echter moeilijker dan we dachten. Het is niet omdat iemand weinig koopt, dat hij daarom ook arm is. Het koopgedrag gaf dus relatief weinig meerwaarde aan ons onderzoek tussen arm en rijk. Om op deze manier een éénduidig resultaat te bekomen, hadden we meer tijd nodig om een uitgebreid onderzoek te kunnen voeren. We kozen er daarom voor om het koopgedrag achterwege te laten, en de basisbehoefte 'eten' op een andere manier te onderzoeken."
+          "text": "Één duidelijke trend vinden in deze contouren was echter moeilijker dan we dachten. Het is niet omdat iemand weinig koopt, dat hij daarom ook arm is. Het koopgedrag gaf dus relatief weinig meerwaarde aan ons onderzoek naar de verschillen tussen arm en rijk. Om op deze manier een éénduidig resultaat te bekomen, hadden we meer tijd nodig om een uitgebreid onderzoek te kunnen voeren. We kozen er daarom voor om het koopgedrag achterwege te laten, en de basisbehoefte 'eten' op een andere manier te onderzoeken."
         },
         {
           "_tags": [
@@ -2635,8 +2635,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -2703,7 +2703,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "text": "<p><br></p><p>We gooiden ons onderzoek over een andere boeg. In plaats van het koopgedrag te visualiseren, gingen we aan de slag met het eetgerei van armen en rijken. Desondanks iedereen de behoefte heeft aan eten, voeren we deze activiteit op een totaal verschillende manier uit. Wat we wel meenamen vanuit de vorige fase, was het idee om contouren te gebruiken. We gingen hier verder mee experimenteren, alleen bleven we niet langer bij 2D tekeningen. We pasten het principe toe op vormen en objecten, namelijk het eetgerei. De opstelling van het servies gebeurde volledig volgens onze eigen gedachten en denkbeelden.&nbsp;</p>"
+          "text": "<p><br></p><p>We gooiden ons onderzoek over een andere boeg. In plaats van het koopgedrag te visualiseren, gingen we aan de slag met het eetgerei van armen en rijken. Hoewel iedereen de behoefte heeft aan eten, voeren we deze activiteit op een totaal verschillende manier uit. Wat we wel meenamen vanuit de vorige fase, was het idee om contouren te gebruiken. We experimenteerden verder, alleen bleven we niet langer bij 2D tekeningen. We pasten het principe toe op vormen en objecten, namelijk het eetgerei. De opstelling van het servies gebeurde volledig volgens onze eigen gedachten en denkbeelden.&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -2861,7 +2861,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "text": "Het voordeel van de aluminiumfolie was dat deze de details van het servies goed weergeeft, het nadeel is echter dat het een zeer poreus materiaal is. We gingen dus op zoek naar een steviger materiaal. Omdat het idee van vacuüm trekken nog steeds in ons hoofd zinderde, gingen we op zoek naar een materiaal dat ook doorzichtig is en een vorm kan aannemen. Zo kwamen we ook uit bij huishoudfolie. We maakten een pakket van arm en rijk bestek en pakten dit beiden in met huishoudfolie. Hoewel de benodigdheden van servies zo verschillend zijn bij arm en rijk, hebben beide groepen er wel nood aan. De folie zou wijzen op de gemeenschappelijke nood aan eten, de inhoud ervan op de verschillende behoeften die in dat pakket moeten zitten. De huishoudfolie gaf echter niet voldoende contour van de 3D objecten, maar we hebben er niet niets mee gedaan. We zochten naar contrasten tussen de twee verschillende pakketten aan de hand van licht en schaduw. De folie gaf misschien geen gedetailleerde weergave, maar wel een interessante schaduw.<p>.</p>"
+          "text": "Het voordeel van de aluminiumfolie was dat deze de details van het servies goed weergeeft, het nadeel is echter dat het een zeer poreus materiaal is. We gingen dus op zoek naar een steviger materiaal. Omdat het idee van vacuüm trekken nog steeds in ons hoofd zinderde, gingen we op zoek naar een materiaal dat ook doorzichtig is en een vorm kan aannemen. Zo kwamen we ook uit bij huishoudfolie. We maakten een pakket van arm en rijk bestek en pakten dit beide in met huishoudfolie. Hoewel de benodigdheden van servies zo verschillend zijn bij arm en rijk, hebben beide groepen er wel nood aan. De folie zou wijzen op de gemeenschappelijke nood aan eten, de inhoud ervan op de verschillende behoeften die in dat pakket moeten zitten. De huishoudfolie gaf echter niet voldoende contour van de 3D objecten, maar we hebben er niet niets mee gedaan. We zochten naar contrasten tussen de twee verschillende pakketten aan de hand van licht en schaduw. De folie gaf misschien geen gedetailleerde weergave, maar wel een interessante schaduw.<p>.</p>"
         },
         {
           "_inherit": "gallery1",
@@ -2968,7 +2968,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "text": "<p>Zoals eerder aangegeven voldeed de aluminium- en huishoudfolie niet aan de eisen om een 3D contour mee op te bouwen. We vonden tijdens het onderzoek een interessante kunstenaar: <a href=\"josephbeuys.html\" target=\"_blank\" class=\"text-danger\">Joseph Beuys</a>. Hij pakt allerlei objecten op een zeer sobere manier in met textiel. Veel details gaan verloren, maar het object blijft wel herkenbaar. We maakten al snel een link met ons eigen ontwerp en begonnen te experimenteren met textiel en stijfsel. We kozen voor een kanten tafellaken dat luxe uitstraalt, en ensceneerden een rijkelijk gedekte tafel. We mengden het textiel met het stijfsel, pasten het aan aan de contouren van het servies en lieten het een nacht rusten.&nbsp;</p>"
+          "text": "<p>Zoals eerder aangegeven voldeed de aluminium- en huishoudfolie niet aan de eisen om een 3D contour mee op te bouwen. We vonden tijdens het onderzoek een interessante kunstenaar: <a href=\"josephbeuys.html\" target=\"_blank\" class=\"text-danger\">Joseph Beuys</a>. Hij pakt allerlei objecten op een zeer sobere manier in met textiel. Veel details gaan verloren, maar het object blijft wel herkenbaar. We maakten al snel een link met ons eigen ontwerp en begonnen te experimenteren met textiel en stijfsel. We kozen voor een kanten tafellaken dat luxe uitstraalt en ensceneerden een rijkelijk gedekte tafel. We mengden het textiel met het stijfsel, pasten het aan aan de contouren van het servies en lieten het een nacht rusten.&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -3278,8 +3278,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -3593,23 +3593,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/insp-hansopdebeeck-600x600-84.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "hansopdebeeck.html",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "<a href=\"hansopdebeeck.html\" class=\"text-black\">Hans Op de Beeck</a>",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/insp-hargreavesandlevin-600x600-81.jpg",
+              "src": "@PROJECT_PATH@/assets/images/insp-hargreavesandlevin-600x600-40.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3619,8 +3603,24 @@
               "linkInNewWindow": false
             }
           },
+          "title1": "Bootstrap 4",
+          "subtitle1": "<p><a href=\"hargreavesandlevin.html\" class=\"text-black\">Hargreaves + Levin</a><a href=\"hansopdebeeck.html\" class=\"text-black\"></a></p>",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/blank-600x600-81.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
           "title2": "Responsive",
-          "subtitle2": "<a href=\"hargreavesandlevin.html\" class=\"text-black\">Hargreaves + Levin</a>",
+          "subtitle2": "",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
@@ -3853,8 +3853,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -3935,7 +3935,7 @@
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
-          "text": "<p>Stephan Vanfleteren studeerde fotografie in Sint-Lukas Brussel (1988-1992). Hij werkte van 1993 tot 2009 als freelance fotograaf voor de krant De Morgen maar bleef veel tijd investeren in eigen projecten. Hij is gespecialiseerd in zwart-witportretten en langdurige reportages in binnen- en buitenland. Hij werkt momenteel vooral voor buitenlandse kranten en tijdschriften. Stephan Vanfleteren is medeoprichter van Uitgeverij Kannibaal/Hannibal en werkt er als artdirector. Sinds 2010 is hij ook gastdocent aan het KASK (Koninklijke Academie voor Schone Kunsten) in Gent.</p><p><br></p><p>De portretten van Stephan Vanfleteren zijn voor ons een grote inspiratiebron. Hij fotografeert personen uit allerlei sociale klassen op een zeer sobere, maar gedetailleerde manier. Zijn foto's vertellen zeer veel, waardoor er verder weinig uitleg nodig is. We hebben allemaal een gezicht met ogen, oren, een neus en een mond. Sommige uiterlijke kenmerken zijn aangeboren en beslissen we niet zelf. Hoe we met onze kenmerken omgaan, vertelt veel over wie we zijn. Verschillende kapsels en baarden, al dan niet make-up,... Het zijn allemaal elementen die iets vertellen over onzelf en onze achtergrond.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>"
+          "text": "<p>Stephan Vanfleteren studeerde fotografie in Sint-Lukas Brussel (1988-1992). Hij werkte van 1993 tot 2009 als freelance fotograaf voor de krant De Morgen maar bleef veel tijd investeren in eigen projecten. Hij is gespecialiseerd in zwart-witportretten en langdurige reportages in binnen- en buitenland. Hij werkt momenteel vooral voor buitenlandse kranten en tijdschriften. Stephan Vanfleteren is medeoprichter van Uitgeverij Kannibaal/Hannibal en werkt er als art director. Sinds 2010 is hij ook gastdocent aan het KASK (Koninklijke Academie voor Schone Kunsten) in Gent.</p><p><br></p><p>De portretten van Stephan Vanfleteren zijn voor ons een grote inspiratiebron. Hij fotografeert personen uit allerlei sociale klassen op een zeer sobere, maar gedetailleerde manier. Zijn foto's vertellen zeer veel, waardoor er verder weinig uitleg nodig is. We hebben allemaal een gezicht met ogen, oren, een neus en een mond. Sommige uiterlijke kenmerken zijn aangeboren en beslissen we niet zelf. Hoe we met onze kenmerken omgaan, vertelt veel over wie we zijn. Verschillende kapsels en baarden, al dan niet make-up,... Het zijn allemaal elementen die iets vertellen over onszelf en onze achtergrond.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>"
         },
         {
           "_tags": [
@@ -4213,8 +4213,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -4634,7 +4634,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "text": "<p>Om een eerste aanknopingspunt te vinden voor ons ontwerp, deden we een brainstorm naar wat wij verstonden onder 'multidisciplinariteit', en welke thema's hierbij aan bod konden komen. Al gauw werden we herinnerd aan het werk van <a href=\"jefgeys.html\" class=\"text-danger\">Jef Geys</a> in het M HKA.</p><p><br></p><p>Door zijn werk werd het duidelijk dat we ons bezig wilden houden met een maatschappelijk thema, meer bepaald de kloof tussen arm en rijk. Enerzijds is dit een zeer boeiend thema, maar anderzijds ook heel gevoelig en poreus. We brainstormden en noteerden adjectieven die we koppelden aan de woorden 'arm' en 'rijk'. Het nadeel was dat we hierdoor alle armen en rijken over dezelfde kam scheerden en onze vooroordelen naar boven kwamen. Als we met dit thema verder wilden gaan, moesten we er zeker van zijn dat we niet cliché gingen denken. Het moest een puur object worden dat de toeschouwer aan het nadenken zet en het contrast tussen beide leefwerelden weergeeft. Dit is echter gemakkelijker gezegd dan gedaan, dus gingen we op zoek naar kunstenaars die zich reeds in dit onderwerp hadden verdiept. Hoe gaan zij met dit fragiele onderwerp om, zonder dat het hierbij cliché wordt? We botsten hierbij op de kunstenaar <a href=\"ivánsikic.html\" target=\"_blank\" class=\"text-danger\">Iván Sikic</a>, die de kloof tussen arm en rijk weergeeft door herkenbare materialen te gebruiken. Hierdoor wordt zijn werk zeer tastbaar en komt zijn boodschap over bij een groot publiek.&nbsp;</p><p><br></p><p>Adjectieven op armen en rijken plakken, was dus niet de juiste strategie om een eerste aanknopingspunt te vinden. We gingen dus niet langer op zoek naar wat ons verschillend maakt, maar wat hen zou kunnen verbinden. Onze eerste gedachten gingen naar het menselijk lichaam: iedereen heeft het en toch is het bij iedereen zo verschillend. Een deel van de verschillen zijn aangeboren, een ander deel hangt er vanaf hoe je er mee om gaat. We dachten al snel aan de handen, het gezicht, de neus en de oren. Het zijn vaak maar kleine details, maar het geeft ons vaak zo veel informatie over de persoonlijke achtergrond van een individu. Hierbij dachten we aan twee fotografen, die zich sterk bezig houden met dit thema: <a href=\"stephanvanfleteren.html\" target=\"_blank\" class=\"text-danger\">Stephan Vanfleteren</a> en&nbsp;<a href=\"jankersschot.html\" target=\"_blank\" class=\"text-danger\">Jan Kersschot</a>.&nbsp;&nbsp;</p><p><br></p><p>We dachten er bijgevolg eerst aan om zelf ook een fotoreportage te maken. We stelden ons hierbij echter de vraag hoe we deze beelden dan later konden gebruiken om een object te vormen. We besloten verder te zoeken naar dingen die arm en rijk gemeenschappelijk hebben. Buiten fysieke elementen zijn er ook nog andere gemeenschappelijke factoren, zoals rituelen en behoeften. Ieder mens heeft nood aan eten, maar armen en rijken zullen dit op een zeer verschillende manier doen. Dit was de eerste aanzet voor ons ontwerpproces.</p><p><br></p>"
+          "text": "<p>Om een eerste aanknopingspunt te vinden voor ons ontwerp, deden we een brainstorm naar wat wij verstonden onder 'multidisciplinariteit', en welke thema's hierbij aan bod konden komen. Al gauw werden we herinnerd aan het werk van <a href=\"jefgeys.html\" class=\"text-danger\">Jef Geys</a> in het M HKA.</p><p><br></p><p>Door zijn werk werd het duidelijk dat we ons bezig wilden houden met een maatschappelijk thema, meer bepaald de kloof tussen arm en rijk. Enerzijds is dit een zeer boeiend thema, maar anderzijds ook heel gevoelig en poreus. We brainstormden en noteerden adjectieven die we koppelden aan de woorden 'arm' en 'rijk'. Het nadeel was dat we hierdoor alle armen en rijken over dezelfde kam scheerden en onze vooroordelen naar boven kwamen. Als we met dit thema verder wilden gaan, moesten we er zeker van zijn dat we niet cliché gingen denken. Het moest een puur object worden dat de toeschouwer aan het nadenken zet en het contrast tussen beide leefwerelden weergeeft. Dit is echter gemakkelijker gezegd dan gedaan, dus gingen we op zoek naar kunstenaars die zich reeds in dit onderwerp hadden verdiept. Hoe gaan zij met dit fragiele onderwerp om, zonder dat het hierbij cliché wordt? We botsten op de kunstenaar <a href=\"ivánsikic.html\" target=\"_blank\" class=\"text-danger\">Iván Sikic</a>, die de kloof tussen arm en rijk weergeeft door herkenbare materialen te gebruiken. Hierdoor wordt zijn werk zeer tastbaar en komt zijn boodschap over bij een groot publiek.&nbsp;</p><p><br></p><p>Adjectieven op armen en rijken plakken, was dus niet de juiste strategie om een eerste aanknopingspunt te vinden. We gingen niet langer op zoek naar wat ons verschillend maakt, maar wat ons zou kunnen verbinden. Onze eerste gedachten gingen naar het menselijk lichaam: iedereen heeft het en toch is het bij iedereen zo verschillend. Een deel van de verschillen zijn aangeboren, een ander deel wordt bepaald door hoe je er mee om gaat. We dachten al snel aan de handen, het gezicht, de neus en de oren. Het zijn maar kleine details, maar het geeft ons vaak zo veel informatie over de persoonlijke achtergrond van een individu. Hierbij dachten we aan twee fotografen, die zich sterk bezig houden met dit thema: <a href=\"stephanvanfleteren.html\" target=\"_blank\" class=\"text-danger\">Stephan Vanfleteren</a> en&nbsp;<a href=\"jankersschot.html\" target=\"_blank\" class=\"text-danger\">Jan Kersschot</a>.&nbsp;&nbsp;</p><p><br></p><p>We dachten er bijgevolg eerst aan om zelf ook een fotoreportage te maken. We stelden ons hierbij echter de vraag hoe we deze beelden dan later konden gebruiken om een object te vormen. We besloten verder te zoeken naar dingen die arm en rijk gemeenschappelijk hebben. Buiten fysieke elementen zijn er ook nog andere gemeenschappelijke factoren, zoals rituelen en behoeften. Ieder mens heeft nood aan eten, maar armen en rijken zullen dit op een zeer verschillende manier doen. Dit was de eerste aanzet voor ons ontwerpproces.</p><p><br></p>"
         },
         {
           "_tags": [
@@ -4739,8 +4739,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -4911,8 +4911,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -4979,7 +4979,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "text": "We experimenteerden verder en gingen op zoek naar andere materialen. We gingen hiervoor op gesprek bij Karine Van Doorsselaer (docent kunstoffen aan de Universiteit Antwerpen) in de hoop dat zij ons tips kon geven rond het verharden van textiel. Ze raadde ons aan om het eens te proberen met een glasvezeldoek en lamineerhars. We hebben dit getest, maar hebben de lamineerhars ook toegepast op een gaas (wat rijkelijk oogt) en jutte (een eerder armer materiaal). We pakten het servies in met beschermfolie, zodat de we de verhardde materialen makkelijk los konden krijgen van het servies. Opdat de beschermfolie de vorm van de borden en het bestek goed zou aannemen, smeerden we deze eerst in met vaseline. Ook de ondergrond pakten we in met beschermfolie. Vervolgens deden we beschermende kledij aan en mengden we de lamineerhars met de verharder. We dompelden de verschillende textielen er in onder en drapeerden deze over het servies."
+          "text": "We experimenteerden verder en gingen op zoek naar andere materialen. We gingen hiervoor op gesprek bij Karine Van Doorsselaer (docent kunststoffen aan de Universiteit Antwerpen) in de hoop dat zij ons tips kon geven rond het verharden van textiel. Ze raadde ons aan om het eens te proberen met een glasvezeldoek en lamineerhars. We hebben dit getest, maar hebben de lamineerhars ook toegepast op een gaas (wat rijkelijk oogt) en jutte (een eerder armer materiaal). We pakten het servies in met beschermfolie, zodat de we de verhardde materialen makkelijk los konden krijgen van het servies. Opdat de beschermfolie de vorm van de borden en het bestek goed zou aannemen, smeerden we deze eerst in met vaseline. Ook de ondergrond pakten we in met beschermfolie. Vervolgens deden we beschermende kledij aan en mengden we de lamineerhars met de verharder. We dompelden de verschillende textielen er in onder en drapeerden deze over het servies."
         },
         {
           "_inherit": "gallery1",
@@ -5302,8 +5302,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -5388,7 +5388,7 @@
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
-          "text": "<p>'Al de zwart-wit Foto’s tot 1998' is een vuistdik boek van 500 bladzijden waarin alle foto's van contactafdrukken staan, die Jef Geys de afgelopen veertig jaar gemaakt heeft. Het M HKA besloot de 500 contactafdrukken aan te kopen en deze naast elkaar te presenteren aan een wand. Geys' persoonlijke archief symboliseert het trage maar onomkeerbare voorbijstromen van de tijd. Het M HKA besloot de 500 contactafdrukken aan te kopen en deze naast elkaar op te hangen aan een wand. Op deze manier biedt zijn werk in één panoramische oogopslag een overzicht van de kunstenaar als medogeloos observator en chroniqueur van de eigen geschiedenis.</p><p><br></p><p>Jef Geys was voor ons een inspiratiebron bij onze brainstormsessies. Hij toont talloze beelden van onze maatschappij: verschillende mensen, verschillende levensstijlen,... Al de hele geschiedenis lang zijn er verschillen en ongelijkheden tussen mensen. Dit is heel duidelijk terug te zien op de tijdlijn van Jef Geys' foto's. Hierdoor zette hij ons aan om verder te gaan zoeken naar maatschappelijke thema's.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>"
+          "text": "<p>'Al de zwart-wit Foto’s tot 1998' is een vuistdik boek van 500 bladzijden waarin alle foto's van contactafdrukken staan die Jef Geys de afgelopen veertig jaar gemaakt heeft. Het M HKA besloot de 500 contactafdrukken aan te kopen en deze naast elkaar te presenteren aan een wand. Geys' persoonlijke archief symboliseert het trage maar onomkeerbare voorbijstromen van de tijd. Op deze manier biedt zijn werk in één panoramische oogopslag een overzicht van de kunstenaar als medogenloos observator en chroniqueur van de eigen geschiedenis.</p><p><br></p><p>Jef Geys was voor ons een inspiratiebron bij onze brainstormsessies. Hij toont talloze beelden van onze maatschappij: verschillende mensen, verschillende levensstijlen,... Al de hele geschiedenis lang zijn er verschillen en ongelijkheden tussen mensen. Dit is heel duidelijk terug te zien op de tijdlijn van Jef Geys' foto's. Hierdoor zette hij ons aan om verder te gaan zoeken naar maatschappelijke thema's.</p><p></p><p></p><p></p><p></p><p></p><p></p><p></p>"
         },
         {
           "_tags": [
@@ -5651,8 +5651,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -6006,8 +6006,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -6092,7 +6092,7 @@
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
-          "text": "Spoerri ontwerpt zijn 'tableaux-pièges' door objecten willekeurig op hun ondergrond (bijvoorbeeld een tafel) te bevestigen en tot kunstwerk uit te roepen. De enige verandering die hij meestal aanbrengt is, dat hij het vlak waarop de voorwerpen zich bevinden, verticaal opstelt in plaats van horizontaal. Het materiaal hiervoor kocht hij vaak op de rommelmarkt.<p></p><p></p><p></p><p></p><p></p><p></p><div><br></div><div>Het toeval is voor Spoerri een belangrijk uitgangspunt voor zijn werk. Zo leidde hij in de jaren 70 in Düsseldorf een restaurant, waar hij zelf de exclusieve gerechten bereidde. De gasten konden na het diner hun tafel met overblijfselen door Spoerri tot kunstwerk laten vereeuwigen.</div><div><br></div><div>Daniel Spoerri was voor ons een goede inspiratiebron, omdat je aan zijn tableaux-pièges precies kan zien wat voor soort diner tussen wat voor soort mensen was. Een snelle hap, een uitgebreid diner, een onderonsje waar veel drank en sigaretten aan te pas kwamen,... Elk klein detail fixeert hij op de tafel, wat ons veel vertelt over de personen die eraan hadden gezeten.</div>"
+          "text": "Spoerri ontwerpt zijn 'tableaux-pièges' door objecten willekeurig op hun ondergrond (bijvoorbeeld een tafel) te bevestigen en tot kunstwerk uit te roepen. De enige verandering die hij meestal aanbrengt is, dat hij het vlak waarop de voorwerpen zich bevinden, verticaal opstelt in plaats van horizontaal. Het materiaal hiervoor kocht hij vaak op de rommelmarkt.<p></p><p></p><p></p><p></p><p></p><p></p><div><br></div><div>Het toeval is voor Spoerri een belangrijk uitgangspunt voor zijn werk. Zo leidde hij in de jaren 70 in Düsseldorf een restaurant, waar hij zelf de exclusieve gerechten bereidde. De gasten konden na het diner hun tafel met overblijfselen door Spoerri tot kunstwerk laten vereeuwigen.</div><div><br></div><div>Daniel Spoerri was voor ons een goede inspiratiebron, omdat je aan zijn tableaux-pièges precies kan zien wat voor soort diner heeft plaats gevonden tussen wat type mensen. Een snelle hap, een uitgebreid diner, een onderonsje waar veel drank en sigaretten aan te pas kwamen,... Elk klein detail fixeert hij op de tafel, wat ons veel vertelt over de personen die eraan hadden gezeten.</div>"
         },
         {
           "_tags": [
@@ -6383,8 +6383,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -6472,7 +6472,7 @@
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
-          "text": "Axel Vervoordt en zijn familie zijn zeer bekend in de vastgoedkringen in Vlaanderen, op jonge leeftijd toonde hij al interesse in dit vakgebied. Hij bleef niet alleen bij het vastgoed, maar bouwde samen met zijn echtgenote een antiekzaak op die op de dag van vandaag een van de bekangrijkste zaken is van Vlaanderen. Hij heeft interesse voor meubels, decoratie en kunstobjecten en zoekt hierbij een verband op. Momenteel is hij bezig met zijn zaak door te geven aan zijn twee zonen, en houdt hij zich bezig met filosofie en salons organiseren.<p></p><p></p><p></p><p></p><p></p><p></p><div><br></div><div>Waar wij ons bij Axel Vervoordt door gaan laten inspireren, is het materiaalgebruik. In een heel rijkelijk interieur worden veel meubels of kunstobjecten teruggevonden die bestaan uit een zeer sober of aangetast en oud materiaal. Hierbij kwamen wij tot het besef dat een materiaal zijn identiteit afhangt van de situatie en omgeving waarin het staat. Dit heeft onze keuze betreft de tafel in ons ontwerp sterk beïnvloed.</div><div><br></div>"
+          "text": "Axel Vervoordt en zijn familie zijn zeer bekend in de vastgoedkringen in Vlaanderen, op jonge leeftijd toonde hij al interesse in dit vakgebied. Hij bleef niet alleen bij het vastgoed, maar bouwde samen met zijn echtgenote een antiekzaak op die op de dag van vandaag een van de belangrijkste zaken is van Vlaanderen. Hij heeft interesse voor meubels, decoratie en kunstobjecten en zoekt hierbij een verband op. Momenteel is hij bezig met zijn zaak door te geven aan zijn twee zonen, en houdt hij zich bezig met filosofie en salons organiseren.<p></p><p></p><p></p><p></p><p></p><p></p><div><br></div><div>Waar wij ons bij Axel Vervoordt door gaan laten inspireren, is het materiaalgebruik. In een heel rijkelijk interieur worden veel meubels of kunstobjecten teruggevonden die bestaan uit een zeer sober of aangetast en oud materiaal. Hierbij kwamen wij tot het besef dat de identiteit van een materiaal mede bepaald wordt door de context waarin het staat of wordt gebruikt. Dit heeft onze keuze wat betreft de tafel in ons ontwerp sterk beïnvloed.</div><div><br></div>"
         },
         {
           "_tags": [
@@ -6735,8 +6735,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -6969,330 +6969,6 @@
         }
       ]
     },
-    "hansopdebeeck.html": {
-      "settings": {
-        "order": 15
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#a8a8a8"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#b9b9b9!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#c1c1c1"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#000000!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-5o",
-          "_params": {
-            "bgColor": "#c1c1c1",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "arrow-prev",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "active": true
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead P": {
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
-            },
-            ".lead": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-5p",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/header-hansopdebeeck-2000x1183-28.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "<span style=\"font-weight: normal;\">HANS OP DE BEECK</span>",
-          "text": "BEELDEND KUNSTENAAR",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "H1": {
-              "font-size": "30px"
-            }
-          },
-          "_anchor": "content1-5q",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgColor": "#cccccc"
-          },
-          "text": "<h1><span style=\"font-weight: normal;\">Table (1)</span></h1>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "18px"
-            },
-            "DIV": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "font-size": "18px"
-            },
-            "H4": {
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_anchor": "content1-5r",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "bgColor": "#cccccc"
-          },
-          "text": "<p></p><p>Tekst</p><p></p><p></p><p></p><p></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider3",
-          "_params": {
-            "autoplay": true,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "timeout": 5,
-            "slides": [
-              {
-                "active": true,
-                "image": "@PROJECT_PATH@/assets/images/insp-hans1-2000x1284-96.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": false,
-                "contentAlign": "right",
-                "showTitle": false,
-                "title": "BOOTSTRAP SLIDER",
-                "showText": false,
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": false,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ],
-            "fullScreen": false,
-            "bgColor": "#cccccc",
-            "showBullets": false
-          },
-          "_anchor": "slider3-5s",
-          "articleLayout": false
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-5t",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#cccccc"
-          },
-          "text": "<p>\"Table (1)\"</p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "content1-89",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#cccccc"
-          },
-          "text": "<p>&lt; <a href=\"inspiratiebronnen2.html\">Overzicht inspiratiebronnen</a></p>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "text-align": "left",
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "color": "#000000"
-            },
-            "STRONG": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "color": "#000000"
-            }
-          },
-          "_anchor": "contacts1-5u",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "arrow-prev",
-              "family": "MobiriseIcons",
-              "link": "",
-              "size": 0,
-              "active": true
-            }
-          },
-          "text1": "<strong>UAntwerpen</strong><br>Trajectschijf 3<br>Module 10<br>Casestudie Multidisciplinariteit<br>12/01/2017",
-          "text2": "<strong>Groep5</strong><br><a href=\"contacthannahvanrompaey.html\" class=\"text-primary\">Hannah Van Rompaey</a><br><a href=\"contactpieternelvansteenbrugge.html\">Pieternel Van Steenbrugge</a><br><a href=\"contactyasminedemaeyer.html\">Yasmine De Maeyer</a><br><a href=\"contactanfrijters.html\">An Frijters</a>",
-          "text3": ""
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "font-family": "'Titillium Web', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700",
-              "color": "#303030"
-            }
-          },
-          "_anchor": "footer1-5v",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 Groep 5."
-        }
-      ]
-    },
     "hargreavesandlevin.html": {
       "settings": {
         "order": 16
@@ -7383,8 +7059,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -7472,7 +7148,7 @@
             "paddingBottom": "1",
             "bgColor": "#cccccc"
           },
-          "text": "<p></p><p><span style=\"font-size: 18px; line-height: 1.5;\">Dit werk laat zien hoe autoritaire regimes in de geschiedenis voedsel hebben gebruikt als wapen, om zo mensen systematisch te onderdrukken, het zwijgen op te leggen, en ze te doden door middel van honger.&nbsp;</span><span style=\"font-size: 18px; line-height: 1.5;\">Het doel van deze opstelling is mensen te doen zitten en kijken naar gedekte tafel waarbij de schrijnende ongelijkheid tussen mensen die 'hebben' en mensen die 'niet hebben' duidelijk wordt gemaakt aan de hand van tafel dekking. Er is variatie te zien afhankelijk van de locatie op de wereld. Deze installaties zijn slechts een kleine greep uit de gemeenschappen waar dergelijke tegenstellingen bestaan.</span></p><p><br></p><p>Deze installatie sluit aan bij ons idee om te werken met een gedekte tafel en zo het verschil tussen arm en rijk aan te tonen. Door Hargreaves en Levin krijgen we een beeld van verschillen in aankleding en voeding van samenlevingen in de geschiedenis.</p><p></p><p></p><p></p><p></p>"
+          "text": "<p></p><p><span style=\"font-size: 18px; line-height: 1.5;\">Dit werk laat zien hoe autoritaire regimes in de geschiedenis voedsel hebben gebruikt als wapen, om zo mensen systematisch te onderdrukken, het zwijgen op te leggen, en ze te doden door middel van honger.&nbsp;</span><span style=\"font-size: 18px; line-height: 1.5;\">Het doel van deze opstelling is mensen te doen zitten en kijken naar een gedekte tafel waarbij de schrijnende ongelijkheid tussen mensen die 'hebben' en mensen die 'niet hebben' duidelijk wordt gemaakt aan de hand van tafeldekking. Er is variatie te zien afhankelijk van de locatie op de wereld. Deze installaties zijn slechts een kleine greep uit de gemeenschappen waar dergelijke tegenstellingen bestaan.</span></p><p><br></p><p>Deze installatie sluit aan bij ons idee om te werken met een gedekte tafel en zo het verschil tussen arm en rijk aan te tonen. Door Hargreaves en Levin krijgen we een beeld van verschillen in aankleding en voeding van samenlevingen in de geschiedenis.</p><p></p><p></p><p></p><p></p>"
         },
         {
           "_tags": [
@@ -7735,8 +7411,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -7824,7 +7500,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "text": "De Peruaanse kunstenaar Iván Sikic richt zich op de toenemende inkomenskloof door middel van een installatie met 99 helium ballonnen, een vergulde baksteen en een tapijt van 7000 punaises. naarmate de tijd voorbij gaat, zullen de ballonnen helium verliezen en dalen. Hierdoor zal de steen, die symbool staat voor 1% van de bevolking die het merendeel van de rijkdom beschikt, naar de bodem zakken. Toch zal deze ongeschonde uit de strijd met de punaises komen, dit in tegenstelling tot de ballonnen die de andere 99% van de bevolking voorstellen.&nbsp;<span style=\"font-size: 18px; line-height: 1.5;\">De titel verwijst op een vrije brutale manier naar de pure belachelijkheid van de werkelijkheid en wat het betekent voor de overige 99% van de wereldbevolking.&nbsp;</span><span style=\"font-size: 18px; line-height: 1.5;\">Dit werk werd voor de eerste keer tentoongesteld in Luis Adelantado Gallery, Valencia.</span><div><br></div><div>Hij insprireert ons omdat hij gebruik maakt van herkenbare materialen. Een zware goudklomp, ballonnen die in punaises vallen, ... het zijn stuk voor stuk elementen waar we eenvoudig connotaties aan kunnen geven. Op deze manier begrijpt een groot publiek de boodschap die hij wil overbrengen en wordt het een toegankelijk kunstobject.</div><div><br></div><div><br></div>"
+          "text": "De Peruaanse kunstenaar Iván Sikic richt zich op de toenemende inkomenskloof door middel van een installatie met 99 helium ballonnen, een vergulde baksteen en een tapijt van 7000 punaises. Naarmate de tijd voorbij gaat, zullen de ballonnen helium verliezen en dalen. Hierdoor zal de steen, die symbool staat voor 1% van de bevolking die het merendeel van de rijkdom beschikt, naar de bodem zakken. Toch zal deze ongeschonden uit de strijd met de punaises komen, dit in tegenstelling tot de ballonnen die de andere 99% van de bevolking voorstellen.&nbsp;<span style=\"font-size: 18px; line-height: 1.5;\">De titel verwijst op een vrij brutale manier naar de pure belachelijkheid van de werkelijkheid en wat het betekent voor de overige 99% van de wereldbevolking.&nbsp;</span><span style=\"font-size: 18px; line-height: 1.5;\">Dit werk werd voor de eerste keer tentoongesteld in Luis Adelantado Gallery, Valencia.</span><div><br></div><div>Hij insprireert ons omdat hij gebruik maakt van herkenbare materialen. Een zware goudklomp, ballonnen die in punaises vallen, ... het zijn stuk voor stuk elementen waaraan we eenvoudige connotaties kunnen geven. Op deze manier begrijpt een groot publiek de boodschap die hij wil overbrengen en wordt het een toegankelijk kunstobject.</div><div><br></div><div><br></div>"
         },
         {
           "_tags": [
@@ -8118,8 +7794,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -8187,7 +7863,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "text": "<p>Terwijl we al deze materiaaltesten uitvoerden, moesten we uiteraard wel ook nadenken over ons object. Als de materiaaltesten lukten, wat doen we dan met de twee contouren van het arme en het rijke servies? We keken terug naar onze allereerste brainstorms, toen we er voor kozen om dit maatschappelijke thema weer te geven in ons object. Het werd al snel duidelijk dat we de confrontatie wilden aangaan en het contrast tussen beide contouren wilden tonen. Dit is ook waar we in fase 1 mee begonnen waren, maar dan in 2D. We kozen er bijgevolg voor om een tafel te ontwerpen, waar arm en rijk over elkaar zouden zitten. De tafel staat hierbij symbool voor hetgene wat deze twee sociale groepen gemeenschappelijk hebben: de behoefte om te eten. </p><p><br></p><p>We kozen voor een rechthoekige, kleine tafel. Klein omdat dit de twee tegenpolen toch samenbrengt, rechthoekig om toch een zekere hiërarchie en formaliteit te creëren. Een grote tafel zou te afstandelijk worden, een ronde tafel te gezellig en vrienschappelijk. De twee zitten over elkaar, worden geconfronteerd met elkaar maar zitten toch op een intieme afstand. Belangrijk hierbij is dat de tafel archetypisch en uniform is: aan deze tafel moet zowel een arme als rijke persoon kunnen eten. De tafel moet dus een zo universeel mogelijke uitstraling hebben.</p><p><br></p><p>Om de uniformaliteit van de tafel te benadrukken, wilden we de twee gehardde doeken niet gewoon op de tafel leggen. Het zou spijtig zijn als we deze volledig zouden bedekken. Daarom kozen we ervoor om de gehardde doeken met fijne draadjes op te hangen aan het plafond, zodat deze vlak boven de tafel zouden zweven. Hierdoor voel je de 3D contour niet enkel langs boven, maar ook langs onder. De fijne draadjes zorgen ervoor dat het object plots heel fragiel wordt, net zoals het onderwerp waarover het gaat.&nbsp;</p>"
+          "text": "<p>Terwijl we al deze materiaaltesten uitvoerden, moesten we uiteraard ook wel nadenken over ons object. Als de materiaaltesten lukten, wat doen we dan met de twee contouren van het arme en het rijke servies? We keken terug naar onze allereerste brainstorms, toen we ervoor kozen om dit maatschappelijke thema weer te geven in ons object. Het werd al snel duidelijk dat we de confrontatie wilden aangaan en het contrast tussen beide contouren wilden tonen. Dit is ook waar we in fase 1 mee begonnen waren, maar dan in 2D. We kozen er bijgevolg voor om een tafel te ontwerpen, waar arm en rijk over tegenover elkaar zouden zitten. De tafel staat hierbij symbool voor hetgene wat deze twee sociale groepen gemeenschappelijk hebben: de behoefte om te eten. </p><p><br></p><p>We kozen voor een rechthoekige, kleine tafel. Klein omdat dit de twee tegenpolen toch samenbrengt, rechthoekig om toch een zekere hiërarchie en formaliteit te creëren. Een grote tafel zou te afstandelijk worden, een ronde tafel te gezellig en vrienschappelijk. De twee zitten over elkaar, worden geconfronteerd met elkaar maar zitten toch op een intieme afstand. Belangrijk hierbij is dat de tafel archetypisch en uniform is: aan deze tafel moet zowel een arme als rijke persoon kunnen eten. De tafel moet dus een zo universeel mogelijke uitstraling hebben.</p><p><br></p><p>Om de uniformaliteit van de tafel te benadrukken, wilden we de twee gehardde doeken niet gewoon op de tafel leggen. Het zou spijtig zijn als we deze volledig zouden bedekken. Daarom kozen we ervoor om de gehardde doeken met fijne draadjes op te hangen aan het plafond, zodat deze vlak boven de tafel zouden zweven. Hierdoor voel je de 3D contour niet enkel langs boven, maar ook langs onder. De fijne draadjes zorgen ervoor dat het object plots heel fragiel wordt, net zoals het onderwerp waarover het gaat.&nbsp;</p>"
         },
         {
           "_tags": [
@@ -8465,8 +8141,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -8533,7 +8209,7 @@
             "paddingBottom": "0",
             "bgColor": "#cccccc"
           },
-          "text": "Het nadeel van het ophangen van de twee gehardde doeken, was dat we afhankelijk waren van de ruimte waarin we ons object gingen plaatsen. We overwogen daarom om het ophangen aan draadjes achterwege te laten. We probeerden om de tafel en de doeken één geheel te laten vormen, door het textiel rond de tafelpoten te wikkelen. We deden dit weer met stijfsel, maar dit keer met een verhoogde concentratie. We testten het uit met een dunnere jutte en tule."
+          "text": "Het nadeel van het ophangen van de twee geharde doeken, was dat we afhankelijk waren van de ruimte waarin we ons object gingen plaatsen. We overwogen daarom om het ophangen aan draadjes achterwege te laten. We probeerden om de tafel en de doeken één geheel te laten vormen, door het textiel rond de tafelpoten te wikkelen. We deden dit weer met stijfsel, maar dit keer met een verhoogde concentratie. We testten het uit met een dunnere jutte en tule."
         },
         {
           "_inherit": "gallery1",
@@ -8624,7 +8300,7 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "text": "<p>Toen de materialen van de twee zwevende doeken bepaald waren, konden we op zoek naar een goede kleur voor onze tafel die hier goed op afsteekt. We deden testen met verschillende soorten vernissen, beitsen en olie. We concludeerden dat de donkere notenbeits het best geschikt was voor ons ontwerp.</p>"
+          "text": "<p>Toen de materialen van de twee zwevende doeken bepaald waren, konden we op zoek naar een geschikte kleur voor onze tafel die hier goed op afsteekt. We deden testen met verschillende soorten vernissen, beitsen en olie. We concludeerden dat de donkere notenbeits het best geschikt was voor ons ontwerp.</p>"
         },
         {
           "_inherit": "gallery1",
@@ -8856,8 +8532,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -9088,8 +8764,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -9320,8 +8996,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -9552,8 +9228,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -9784,8 +9460,8 @@
               "active": true
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">GRENS</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">VERSUS</a>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"inspratiebronnen.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">PROJECT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"deopdracht.html\">Opdracht</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brainstorm2.html\">Brainstorm</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ontwerpproces.html\">Ontwerpproces</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"eindproduct.html\">Product</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"inspiratiebronnen2.html\">Inspiratiebronnen</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"bibliografie.html\">BIBLIOGRAFIE</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_styles": {
