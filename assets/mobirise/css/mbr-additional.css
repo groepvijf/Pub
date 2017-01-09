@@ -1028,6 +1028,10 @@ h6,
 #ext_menu-34 .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
 }
+#slider-8l P {
+  text-align: left;
+  font-size: 20px;
+}
 #contacts1-1r P {
   text-align: left;
   font-family: 'Titillium Web', sans-serif;
